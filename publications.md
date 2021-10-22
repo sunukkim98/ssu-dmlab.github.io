@@ -1,8 +1,5 @@
 ---
 layout: article
-titles:
-  # @start locale config
-  en      : &EN     title test
 ---
 
 ## International Publications
