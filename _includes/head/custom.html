@@ -1,0 +1,18 @@
+<!-- start custom head snippets -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://unpkg.com/typewriter-effect@2.3.1/dist/core.js"></script>
+<script type="text/javascript">
+    $(document).ready(function() {
+        var text = document.getElementById("typeStyle");
+
+        var typewriter = new Typewriter(text, {
+            loop: false,
+            delay: 200
+        });
+
+        typewriter.pauseFor(1000)
+            .typeString('Welcome To Data Science Lab!')
+            .start();
+    });
+</script>
+<!-- end custom head snippets -->

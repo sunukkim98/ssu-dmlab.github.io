@@ -1,0 +1,36 @@
+/* start custom scss snippet */
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300&display=swap');
+
+body {
+    font-family: 'Nunito', sans-serif;
+}
+
+.video-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 35px;
+    height: 0;
+    overflow: hidden;
+}
+
+.video-container iframe {
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.video-container #main {
+    position: absolute;
+    color: #fff;
+    font-size: 50px;
+    text-align: left;
+    width: 100%;
+    margin-top: -20px;
+    margin-left: 30px;
+    font-weight: bold;
+}
+
+
+/* end custom scss snippet */

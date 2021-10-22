@@ -1,0 +1,250 @@
+- year: 2021
+  month: Aug
+  international: true
+  type: conference
+  title: "Learning to Walk across Time for Interpretable Temporal Knowledge Graph Completion"
+  authors:
+    - Jaehun Jung
+    - Jinhong Jung
+    - U Kang
+  publisher:
+    venue: ACM International Conference on Knowledge Discovery and Data Mining (SIGKDD) 2021
+    link:
+  pdf:
+  bib:
+  code:
+
+- year: 2021
+  month: Aug
+  international: true
+  type: journal
+  title: "Compressing Deep Graph Convolution Network With Multi-staged Knowledge Distillation"
+  authors:
+    - Junghun Kim
+    - Jaehun Jung
+    - U Kang
+  publisher:
+    venue: "PLoS ONE 16(8): e0256187"
+    link:
+  pdf:
+  bib:
+  code:
+
+- year: 2020
+  month: Dec
+  international: true
+  type: journal
+  title: "Fast and Accurate Pseudoinverse with Sparse Matrix Reordering and Incremental Approach"
+  authors:
+    - Jinhong Jung
+    - Lee Sael
+  publisher:
+    venue: "Machine Learning 109: 2333–2347"
+    link:
+  pdf:
+  bib:
+  code:
+
+- year: 2020
+  month: May
+  international: true
+  type: journal
+  title: "Accurate Relational Reasoning in Edge-labeled Graphs by Multi-Labeled Random Walk with Restart"
+  authors:
+    - Jinhong Jung
+    - Woojeong Jin
+    - Ha-Myung Park
+    - U Kang
+  publisher:
+    venue: World Wide Web Journal 2020
+    link:
+  pdf:
+  bib:
+  code:
+
+- year: 2020
+  month: Mar
+  international: true
+  type: conference
+  title: "BalanSiNG: Fast and Scalable Generation of Realistic Signed Networks"
+  authors:
+    - Jinhong Jung
+    - Ha-Myung Park
+    - U Kang
+  publisher:
+    venue: "International Conference on Extending Database Technology (EDBT) 2020, Copenhagen, Denmark"
+    link: "https://diku-dk.github.io/edbticdt2020/"
+  pdf: "https://datalab.snu.ac.kr/balansing/resources/balansingEDBT20.pdf"
+  bib: "https://datalab.snu.ac.kr/balansing/resources/balansingEDBT20.bib"
+  code: "https://datalab.snu.ac.kr/balansing/resources/balansing-cpp-v1.0.zip"
+
+
+- year: 2020
+  month: Feb
+  international: true
+  type: journal
+  title: "Random Walk Based Ranking in Signed Social Networks: Model and Algorithms"
+  authors:
+    - Jinhong Jung
+    - Woojeong Jin
+    - U Kang
+  publisher:
+    venue: "Knowledge and Information Systems (KAIS), pp. 1-40, 2019"
+    link: https://link.springer.com/article/10.1007/s10115-019-01364-z
+  pdf:
+  bib:
+  code:
+
+- year: 2019
+  month: Mar
+  international: true
+  type: journal
+  title: "Supervised and Extended Restart in Random Walks for Ranking and Link Prediction in Networks"
+  authors:
+    - Woojeong Jin
+    - Jinhong Jung
+    - U Kang
+  publisher:
+    venue: "PLoS ONE 14(3): e0213857, 2019"
+    link:
+  pdf:
+  bib:
+  code:
+
+- year: 2018
+  month: Oct
+  international: true
+  type: conference
+  title: "Zoom-SVD: Fast and Memory Efficient Method for Extracting Key Pattern an Arbitrary Time Range"
+  authors:
+    - Jun-gi Jang
+    - Dongjin Choi
+    - Jinhong Jung
+    - U Kang
+  publisher:
+    venue: "ACM International Conference on Information and Knowledge Management (CIKM) 2018, Lingotto, Italy"
+    link: ""
+  pdf:
+  bib:
+  code:
+
+- year: 2018
+  month: Apr
+  international: true
+  type: conference
+  title: "TPA: Fast, Scalable, and Accurate Method for Approximate Random Walk with Restart on Billion Scale Graphs"
+  authors:
+    - Minji Yoon
+    - Jinhong Jung
+    - U Kang
+  publisher:
+    venue: "34th IEEE International Conference on Data Engineering (ICDE) 2018, France"
+    link: "https://icde2018.org/"
+  pdfh:
+  bib:
+  code:
+
+- year: 2017
+  month: Dec
+  international: true
+  type: conference
+  title: "A Comparative Study of Matrix Factorization and Random Walk with Restart in Recommender Systems"
+  authors:
+    - Haekyu Park
+    - Jinhong Jung
+    - U Kang
+  publisher:
+    venue: "IEEE International Conference on Big Data (BigData) 2017, Boston, USA"
+    link: "http://cci.drexel.edu/bigdata/bigdata2017"
+  pdf:
+  bib:
+  code:
+
+- year: 2017
+  month: Mar
+  international: true
+  type: conference
+  title: "A New Question Answering Approach with Conceptual Graphs"
+  authors:
+    - Kyung-Min Kim
+    - Jinhong Jung
+    - Jihee Ryu
+    - Ha-Myung Park
+    - Joseph P.Joohee
+    - Seokwoo Jeong
+    - U Kang
+    - Sung-Hyon Myaeng
+  publisher:
+    venue: "Conférence en Recherche d’Information et Applications (CORIA) 2017, Marseille, France"
+    link: "http://www.lsis.org/coria2017/index.php/en/175-2/"
+  pdf:
+  bib:
+  code:
+
+- year: 2017
+  month: May
+  international: true
+  type: conference
+  title: "BePI: Fast and Memory-Efficient Method for Billion-Scale Random Walk with Restart"
+  authors:
+    - Jinhong Jung
+    - Namyong Park
+    - Lee Sael
+    - U Kang
+  publisher:
+    venue: "ACM International Conference on Management of Data (SIGMOD) 2017, Chicago, IL, USA"
+    link: "http://www.sigmod2017.org"
+  pdf:
+  bib:
+  code:
+
+- year: 2016
+  month: Dec
+  international: true
+  type: conference
+  title: "Personalized Ranking in Signed Networks using Signed Random Walk with Restart"
+  authors:
+    - Woojeong Jin
+    - Jinhong Jung
+    - Lee Sael
+    - U Kang
+  publisher:
+    venue: "IEEE International Conference on Data Mining (ICDM) 2016, Barcelona, Spain"
+    link: "http://icdm2016.eurecat.org"
+  pdf:
+  bib:
+  code:
+
+- year: 2016
+  month: June
+  international: true
+  type: journal
+  title: "Random Walk with Restart on Large Graphs Using Block Elimination"
+  authors:
+    - Woojeong Jin
+    - Kijung Shin
+    - Lee Sael
+    - U Kang
+  publisher:
+    venue: "ACM Transactions on Database Systems (TODS), vol. 41, issue 2, pp. 12:1-12:43, 2016"
+    link: "http://tods.acm.org/"
+  pdf:
+  bib:
+  code:
+
+- year: 2015
+  month: Mar
+  international: true
+  type: conference
+  title: "BEAR: Block Elimination Approach for Random Walk with Restart on Large Graphs"
+  authors:
+    - Kijung Shin
+    - Jinhong Jung
+    - Lee Sael
+    - U Kang
+  publisher:
+    venue: "ACM International Conference on Management of Data (SIGMOD) 2015, Melbourne, Australia"
+    link: "http://www.sigmod2015.org/"
+  pdf:
+  bib:
+  code:
