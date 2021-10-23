@@ -9,10 +9,11 @@
     - U Kang
   publisher:
     venue: ACM International Conference on Knowledge Discovery and Data Mining (SIGKDD) 2021
-    link:
-  pdf:
-  bib:
-  code:
+    link: "https://www.kdd.org/kdd2021/"
+  pdf: "/assets/resources/papers/tgapKDD21.pdf"
+  bib: "/assets/resources/bibtex/tgapKDD21.bib"
+  code: "https://github.com/sharkmir1/T-GAP"
+  slide: 
 
 - year: 2021
   month: Aug
@@ -26,9 +27,10 @@
   publisher:
     venue: "PLoS ONE 16(8): e0256187"
     link:
-  pdf:
-  bib:
-  code:
+  pdf: "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0256187&type=printable"
+  bib: "/assets/resources/bibtex/mustadPLOS21.bib"
+  code: "https://github.com/snudatalab/MustaD"
+  slide: 
 
 - year: 2020
   month: Dec
@@ -41,9 +43,10 @@
   publisher:
     venue: "Machine Learning 109: 2333–2347"
     link:
-  pdf:
-  bib:
+  pdf: "https://link.springer.com/content/pdf/10.1007/s10994-020-05920-5.pdf"
+  bib: "https://dblp.org/rec/journals/ml/JungS20.html?view=bibtex"
   code:
+  slide: "/assets/resources/slides/fastpiACML20.pdf"
 
 - year: 2020
   month: May
@@ -58,9 +61,10 @@
   publisher:
     venue: World Wide Web Journal 2020
     link:
-  pdf:
+  pdf: "/assets/resources/papers/lrwrWWWJ20.pdf"
   bib:
   code:
+  slide: 
 
 - year: 2020
   month: Mar
@@ -74,10 +78,10 @@
   publisher:
     venue: "International Conference on Extending Database Technology (EDBT) 2020, Copenhagen, Denmark"
     link: "https://diku-dk.github.io/edbticdt2020/"
-  pdf: "https://datalab.snu.ac.kr/balansing/resources/balansingEDBT20.pdf"
+  pdf: "/assets/resources/papers/balansingEDBT20.pdf"
   bib: "https://datalab.snu.ac.kr/balansing/resources/balansingEDBT20.bib"
   code: "https://datalab.snu.ac.kr/balansing/resources/balansing-cpp-v1.0.zip"
-
+  slide: "/assets/resources/slides/balansingEDBT20.pdf"
 
 - year: 2020
   month: Feb
@@ -94,6 +98,7 @@
   pdf:
   bib:
   code:
+  slide: 
 
 - year: 2019
   month: Mar
@@ -110,6 +115,7 @@
   pdf:
   bib:
   code:
+  slide: 
 
 - year: 2018
   month: Oct
@@ -127,6 +133,7 @@
   pdf:
   bib:
   code:
+  slide:
 
 - year: 2018
   month: Apr
@@ -143,6 +150,7 @@
   pdfh:
   bib:
   code:
+  slide:
 
 - year: 2017
   month: Dec
@@ -159,6 +167,7 @@
   pdf:
   bib:
   code:
+  slide:
 
 - year: 2017
   month: Mar
@@ -180,6 +189,7 @@
   pdf:
   bib:
   code:
+  slide:
 
 - year: 2017
   month: May
@@ -197,6 +207,7 @@
   pdf:
   bib:
   code:
+  slide:
 
 - year: 2016
   month: Dec
@@ -214,6 +225,7 @@
   pdf:
   bib:
   code:
+  slide:
 
 - year: 2016
   month: June
@@ -231,6 +243,7 @@
   pdf:
   bib:
   code:
+  slide:
 
 - year: 2015
   month: Mar
@@ -248,3 +261,4 @@
   pdf:
   bib:
   code:
+  slide:

@@ -1,30 +1,35 @@
 
 - date: Oct 23, 2021
-  content: "Our lab website is newly open! Check out our research area and achievements!"
+  content: "Our lab website is newly open! Check out our website and announcements!"
   icon: "fas fa-rss"
   keyword: "Web Open"
   button_color: "info"
+  link: ""
 
 - date: Aug 14, 2021
   content: "A paper <b>\"Learning to Walk across Time for Interpretable Temporal Knowledge Graph Completion\"</b> has been presented at <b>KDD 2021</b>!"
   icon: "fas fa-file"
   keyword: "Paper"
   button_color: "success"
+  link: 
 
 - date: May 1, 2021
   content: "Geonwoo Ko, Jongwhi Lee, Keonwoo Ro, and Taesoo Kim joined our lab through our undergraduate research internship program. Welcome!"
   icon: "fas fa-handshake"
   keyword: "New Members"
   button_color: "info"
+  link: "/members"
 
 - date: Mar 1, 2021
   content: "A research proposal for grant has been selected by NRF of Korea."
   icon: "fas fa-money-check"
   keyword: "Research Grant"
   button_color: "info"
+  link: 
 
 - date: Feb 23, 2021
   content: "Prof. Jung won the AAAI-21 Outstanding Program Committee Award."
   icon: "fas fa-award"
   keyword: "Award"
   button_color: "success"
+  link: "https://aaai.org/Awards/conference.php#:~:text=Jinhong%20Jung%20(Seoul%20National%20University%2C%20South%20Korea)"

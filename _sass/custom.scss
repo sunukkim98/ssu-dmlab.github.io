@@ -24,12 +24,50 @@ body {
 .video-container #main {
     position: absolute;
     color: #fff;
-    font-size: 50px;
     text-align: left;
     width: 100%;
     margin-top: -20px;
-    margin-left: 30px;
+    margin-left: 5vmin;
     font-weight: bold;
+    font-size: 3.2vmax;
+}
+
+@media screen and (max-width: 900px) 
+{
+    .video-container #main {
+        font-size: 3.5vmax;
+    }
+    .item#largescreen {
+        display: none;
+    }
+    .item#smallscreen {
+        display: inline;
+    }
+    .mt-2#largescreen {
+        display: none;
+    }
+    .mt-3#smallscreen {
+        display: flex;
+    }
+}
+
+@media screen and (min-width: 910px) 
+{
+    .video-container #main {
+        font-size: 3.8vmax;
+    }
+    .item#largescreen {
+        display: flex;
+    }
+    .item#smallscreen {
+        display: none;
+    }
+    .mt-2#largescreen {
+        display: flex;
+    }
+    .mt-3#smallscreen {
+        display: none;
+    }
 }
 
 

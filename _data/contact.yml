@@ -1,0 +1,12 @@
+- type: Phone
+  content: "+82–63–270–3402"
+  icon: "fas fa-phone"
+
+- type: E-mail
+  content: "jinhongjung (at) jbnu.ac.kr"
+  icon: "fas fa-inbox"
+
+- type: Adress
+  content: "Room 627, Engineering Building 7, Jeonbuk National University, 567 Baekje-daero, Jeonju"
+  icon: "fas fa-location-arrow" 
+

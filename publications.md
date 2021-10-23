@@ -10,8 +10,8 @@ title: ""
     {% if paper.international == true %}
 <div class="grid">
   <div class="cell cell--auto">
-	  <div style="font-size: 22px; font-weight: bolder;">{{paper.title}}</div>
-	  <div style="font-size: 20px;">
+	  <div style="font-size: 1.2em; font-weight: bolder;">{{paper.title}}</div>
+	  <div style="font-size: 1em;">
         {% for author in paper.authors %}
             {% if forloop.last == true %}
                 and {{ author }}
@@ -20,7 +20,7 @@ title: ""
             {% endif %}
         {% endfor %}
 	  </div>
-	  <div style="color: #606060;">
+	  <div style="color: #606060; font-size: 1em;">
         {% if paper.publisher.link != nil %}
         <a href="{{ paper.publisher.link }}" style="color: #606060;" target="_blank">
             {{ paper.publisher.venue }}
@@ -29,7 +29,7 @@ title: ""
             {{ paper.publisher.venue }}
         {% endif %}
 	  </div>
-	  <div>
+	  <div style="font-size: 0.9em;">
         {% if paper.type == "conference" %}
             <a class="button button--info button--rounded button--sm">Conference</a>
         {% elsif paper.type == "journal" %}
@@ -41,6 +41,9 @@ title: ""
         {% endif %}
         {% if paper.bib != nil %}
             <i class="fas fa-file-import fa-fw"></i><a href="{{ paper.bib }}"  style="color: #606060;" target="_blank">BibTex</a>
+        {% endif %}
+        {% if paper.slide != nil %}
+            <i class="fas fa-file-powerpoint fa-fw"></i><a href="{{ paper.slide }}"  style="color: #606060;" target="_blank">Slide</a>
         {% endif %}
         {% if paper.code != nil %}
             <i class="fab fa-github-square fa-fw"></i><a href="{{ paper.code }}"  style="color: #606060;" target="_blank">Code</a>
