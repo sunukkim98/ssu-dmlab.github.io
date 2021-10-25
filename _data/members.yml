@@ -1,0 +1,49 @@
+- name: 
+    en: "Jinhong Jung"
+    ko: "정진홍"
+  type: prof
+  img: "jinhongjung-cropped.png"
+  affiliation: "Division of Computer Science and Engineering at Jeonbuk National University"
+  email: "jinhongjung (AT) jbnu.ac.kr"
+  link: "https://jinhongjung.github.io/"
+
+- name: 
+    en: "Geonwoo Ko"
+    ko: "고건우"
+  type: undergrad
+  img: 
+  gender: man
+  affiliation: 
+  email: 
+  link: 
+
+- name: 
+    en: "Taesoo Kim"
+    ko: "김태수"
+  type: undergrad
+  img: 
+  gender: man
+  affiliation: 
+  email: 
+  link: 
+
+- name: 
+    en: "Jongwhi Lee"
+    ko: "이종휘"
+  type: undergrad
+  img: 
+  gender: man
+  affiliation: 
+  email: 
+  link: 
+
+- name: 
+    en: "Keonwoo Ro"
+    ko: "노건우"
+  type: undergrad
+  img: 
+  gender: man
+  affiliation: 
+  email: 
+  link: 
+

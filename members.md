@@ -4,17 +4,20 @@ title: ""
 ---
 
 ## Professor
+{% assign member = site.data.members[0] %}
 <div class="article-list grid grid--sm grid--p-3">
     <div class="cell cell--4 cell--md-4 cell--lg-3">
-        <a href="">
-        <div class="card card--sm">
-          <div class="card__image">
-            <img class="image" src="https://tianqi.name/jekyll-TeXt-theme/docs/assets/images/axure/page-single.jpg"/>
-            <div class="overlay overlay--bottom">
-                <p>Jinhong Jung</p>
+        <a href="{{ member.link }}" target="_blank" style="text-decoration: none;">
+            <div class="card card--clickable card--sm">
+              <div class="card__image">
+                <img class="image" src="/assets/images/profile/{{member.img}}"/>
+              </div>
+              <div class="card__content">
+                <div class="card__header" style="text-decoration: none;">
+                    <span>{{ member.name.en }}</span>
+                </div>
+              </div>
             </div>
-          </div>
-        </div>
         </a>
     </div>
     <div class="cell cell--4 cell--md-4 cell--lg-1">
@@ -49,60 +52,26 @@ title: ""
 
 ## Undergraduate Students
 <div class="article-list grid grid--sm grid--p-3">
+    {% for member in site.data.members %}
+    {% if member.type == "undergrad" %}
     <div class="cell cell--4 cell--md-4 cell--lg-3">
-        <div class="card card--sm">
-          <div class="card__image">
-            <img class="image" src="https://tianqi.name/jekyll-TeXt-theme/docs/assets/images/axure/page-single.jpg"/>
-            <div class="overlay overlay--bottom">
-                <header>
-                    <a href="">
-                        <h4 class="card__header"> Jinhong Jung </h4>
-                    </a>
-                </header>
+        <a href="{{ member.link }}" target="_blank" style="text-decoration: none;">
+            <div class="card card--clickable card--sm">
+              <div class="card__image">
+                {% if member.img != nil %}
+                    <img class="image" src="/assets/images/profile/{{member.img}}"/>
+                {% else %}
+                    <img class="image" src="/assets/images/profile/default-{{member.gender}}.png"/>
+                {% endif %}
+              </div>
+              <div class="card__content">
+                <div class="card__header" style="text-decoration: none;">
+                    <span>{{ member.name.en }}</span>
+                </div>
+              </div>
             </div>
-          </div>
-        </div>
+        </a>
     </div>
-    <div class="cell cell--4 cell--md-4 cell--lg-3">
-        <div class="card card--sm">
-          <div class="card__image">
-            <img class="image" src="https://tianqi.name/jekyll-TeXt-theme/docs/assets/images/axure/page-single.jpg"/>
-            <div class="overlay overlay--bottom">
-                <header>
-                    <a href="">
-                        <h4 class="card__header"> Jinhong Jung </h4>
-                    </a>
-                </header>
-            </div>
-          </div>
-        </div>
-    </div>
-    <div class="cell cell--4 cell--md-4 cell--lg-3">
-        <div class="card card--sm">
-          <div class="card__image">
-            <img class="image" src="https://tianqi.name/jekyll-TeXt-theme/docs/assets/images/axure/page-single.jpg"/>
-            <div class="overlay overlay--bottom">
-                <header>
-                    <a href="">
-                        <h4 class="card__header"> Jinhong Jung </h4>
-                    </a>
-                </header>
-            </div>
-          </div>
-        </div>
-    </div>
-    <div class="cell cell--4 cell--md-4 cell--lg-3">
-        <div class="card card--sm">
-          <div class="card__image">
-            <img class="image" src="https://tianqi.name/jekyll-TeXt-theme/docs/assets/images/axure/page-single.jpg"/>
-            <div class="overlay overlay--bottom">
-                <header>
-                    <a href="">
-                        <h4 class="card__header"> Jinhong Jung </h4>
-                    </a>
-                </header>
-            </div>
-          </div>
-        </div>
-    </div>
+    {% endif %}
+    {% endfor %}
 </div>
