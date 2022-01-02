@@ -1,7 +1,4 @@
 header:
-  - titles:
-      en      : &EN       Research
-    url: /research
 
   - titles:
       # @start locale config

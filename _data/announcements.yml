@@ -1,6 +1,6 @@
-- date: Oct 23, 2021
-  content: "I am looking for self-motivated graduate students and undergraduate students. Please click the button if you're interested!"
+- date: Jan 1, 2022
+  content: "We are looking for graduate students and undergraduate students who are enthusiastically interested in artificial intelligence and meachine learning for data science. Please click <a href=\"/recruitment\" target=\"_blank\">[here]</a> if you're interested!"
   icon: "fas fa-star"
   keyword: "Join Our Lab!"
   button_color: "primary"
-  link: "https://jinhongjung.github.io"
+  link: "/recruitment"

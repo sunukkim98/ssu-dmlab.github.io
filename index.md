@@ -16,7 +16,9 @@ layout: article
 
 ## About DSLAB @ JBNU
 <div style="hyphens: auto;">
-Welcome to Data Science Laboratory in the Department of Computer Science and Engineering at Jeonbuk National University. Our research interests lie in artificial intelligence (AI), data mining, and machine learning to find models, algorithms, and systems for data analysis. Specifically, we focus on the following research topics: deep learning & machine learning, recommendation system, graphs/tensors, and financial AI.
+Welcome to Data Science Laboratory in the Division of Computer Science and Engineering at Jeonbuk National University. 
+Our research group is interested in data science with artificial intelligence and machine learning to develop effective and scalable algorithms for analyzing real-world data. 
+We specifically study for understanding relationships between entities on graph data with interesting applications such as ranking, recommender system, and anomaly detection. 
 </div>
 
 ## Announcement

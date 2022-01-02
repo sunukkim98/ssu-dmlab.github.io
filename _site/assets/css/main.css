@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Gowun+Dodum&family=Nunito:wght@300&display=swap");
 figure.highlight::before { color: #8e908c !important; background-color: #f7f7f7 !important; }
 
 pre.lineno { color: #8e908c !important; }
@@ -2630,7 +2630,7 @@ body, html, .root, .layout--page { height: 100%; }
 .layout--404 .sign p { font-size: 1.8rem; }
 
 /* start custom scss snippet */
-body { font-family: 'Nunito', sans-serif; }
+body { font-family: 'Nunito', 'Gowun Dodum', sans-serif; }
 
 .video-container { position: relative; padding-bottom: 56.25%; padding-top: 35px; height: 0; overflow: hidden; }
 
