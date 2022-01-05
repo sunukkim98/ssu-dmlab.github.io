@@ -7,7 +7,7 @@ title: ""
 
 <p style='text-align: right'>
 Last updated: Jan 1, 2021 <br/>
-Author: Jinhong Jung
+Author: Jinhong Jung (정진홍)
 </p>
 
 ### Overview
@@ -57,7 +57,7 @@ Author: Jinhong Jung
 * **모집 기간**: 교수 면담 (1월 12일 까지) - 전북대학교 일반대학원 신입학 추가모집 (1월 14일 17:00) [[link]](https://www.jbnu.ac.kr/kor/?menuID=139&pno=1&no=48791&sfv=subject&mode=view)
 * **지원 자격**: 2022년 2월 기준 IT 관련 (복수/부 전공 포함) 학사 소지자 (졸업 예정자)로 상기 연구 주제에 관심이 있는 학생
 * **학생 지원 사항**: 등록금, 인건비 (월 120 ~ 140 만원 - 상황/협의에 따라 조정), 연구 성과급, 국내외 학회 참석 지원, 교육 및 연구 장비 지원
-* **모집 절차**: 관심이 있는 학생은 jinhongjung@jbnu.ac.kr로 지원 의사를 메일로 보내주시면 추후 상담과 면접을 통해 결정됩니다. 
+* **모집 절차**: 관심이 있는 학생은 jinhongjung@jbnu.ac.kr (지도교수: 정진홍)로 지원 의사를 메일로 보내주시면 추후 상담과 면접을 통해 결정됩니다. 
 
 ##### Research participation (including paperwork)
 
