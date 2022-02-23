@@ -41,7 +41,7 @@ title: ""
             <div class="cell cell--auto">
                 <a class="button button--info button--rounded button--sm" href="">Join Our Lab</a> 
                 Currently, we have no graduate student in our lab.
-                We are looking for graduate students and undergraduate students who are enthusiastically interested in artificial intelligence and meachine learning for data science. Please click <a href="https://jbnu-dslab.github.io/recruitment/" target="_blank">[here]</a> if you're interested!
+                We are looking for graduate students and undergraduate students who are enthusiastically interested in artificial intelligence and meachine learning for data science. Please click <a href="" target="_blank">[here]</a> if you're interested!
             </div>
         </div>
     </div>
