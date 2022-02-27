@@ -26,6 +26,10 @@ header:
     url: /members
 
   - titles:
+      en      : &EN       Research
+    url: /research
+
+  - titles:
       en      : &EN       Publications
     url: /publications
 
