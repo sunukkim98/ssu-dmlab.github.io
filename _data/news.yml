@@ -1,3 +1,9 @@
+- date: Mar 15, 2022
+  content: "Our work on graph neural network on signed graphs has been published at <b>PLoS ONE</b>!"
+  icon: "fas fa-file"
+  keyword: "Paper"
+  button_color: "success"
+  link: 
 
 - date: Oct 23, 2021
   content: "Our lab website is newly open! Check out our website and announcements!"
@@ -7,7 +13,7 @@
   link: ""
 
 - date: Aug 14, 2021
-  content: "A paper <b>\"Learning to Walk across Time for Interpretable Temporal Knowledge Graph Completion\"</b> has been presented at <b>KDD 2021</b>!"
+  content: "Our work on temporal knowledge graph completion has been presented at <b>KDD 2021</b>!"
   icon: "fas fa-file"
   keyword: "Paper"
   button_color: "success"

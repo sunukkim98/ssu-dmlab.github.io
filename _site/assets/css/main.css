@@ -2644,6 +2644,8 @@ body { font-family: 'Nunito', 'Gowun Dodum', sans-serif; }
 
 @media screen and (min-width: 910px) { .video-container #main { font-size: 3em; margin-left: 30px; } #largescreen.item { display: flex; } #smallscreen.item { display: none; } #largescreen.mt-2 { display: flex; } #smallscreen.mt-3 { display: none; } }
 
+.swiper-demo { height: 220px; }
+
 /* end custom scss snippet */
 
 /*# sourceMappingURL=main.css.map */
