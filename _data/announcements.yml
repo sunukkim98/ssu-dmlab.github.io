@@ -1,6 +1,6 @@
-- date: Jan 1, 2022
-  content: "We are looking for graduate students and undergraduate students who are enthusiastically interested in artificial intelligence and meachine learning for data science. Please click <a href=\"/recruitment\" target=\"_blank\">[here]</a> if you're interested!"
+- date: Apr 10, 2022
+  content: "Data Science 연구실에서 데이터마이닝 분야에 관심이 있는 <strong>대학원생</strong>을 모집하고 있습니다. 관심이 있는 학생은 <a href=\"/recruitments/grad\" target=\"_blank\">[link]</a>를 클릭해주세요."
   icon: "fas fa-star"
   keyword: "Join Our Lab!"
   button_color: "primary"
-  link: "/recruitment"
+  link: "/recruitments/grad"

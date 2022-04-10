@@ -6,16 +6,20 @@ title: ""
 ## Recruitment Plan of DSLAB
 
 <p style='text-align: right'>
-Last updated: Mar 30, 2022 <br/>
+Last updated: Apr 10, 2022 <br/>
 Author: Jinhong Jung (정진홍)
 </p>
 
-안녕하세요. 전북대학교 컴퓨터공학부 **데이터사이언스 연구실 (DSLAB)**에서 데이터마이닝 분야에 관심이 있는 학생을 모집합니다. 관심이 있는 학생분들은 아래 사항을 읽어보고 안내에 맞춰 지원을 해주세요.
+😄안녕하세요😄
+
+전북대학교 컴퓨터공학부 **데이터사이언스 연구실 (DSLAB)**에서 데이터마이닝 분야에 관심이 있는 학생을 모집합니다!
+
+관심이 있는 학생분들은 아래 사항을 읽어보고 안내에 맞춰 지원을 해주세요.
 
 * [Graduate Programs](#graduate-programs)
-* [Undergraduate Research Internship Program](#undergraduate-research-internship-program)
 
 <!--
+* [Undergraduate Research Internship Program](#undergraduate-research-internship-program)
 #### Table of organization
 
 |                   | Undergraduate Research <br />Internship Program | Master<br />Program | Doctorial<br />Program |
@@ -46,15 +50,21 @@ Author: Jinhong Jung (정진홍)
 
 ### Research Programs
 
-저희 연구실에서는 대학원 프로그램 (학석사연계과정, 석/박사 과정)과 학부연구생 프로그램을 운영합니다. 
+저희 연구실에서는 대학원 프로그램 (학석사연계과정, 석/박사 과정)을 이수할 학생을 모집합니다. 
 
 #### Graduate Programs
 
 대학원 프로그램에서는 데이터마이닝 분야를 선도할 심도 있는 연구를 수행하며 연구의 결과로 국제적으로 저명한 학회/저널에 제출을 목표 합니다. 
 
-* **모집 인원**: 2022년 9월에 석사과정을 계획하는 학생 1 ~ 2명
-* **모집 기간**: 교수 면담 (메일 컨택) - 전북대학교 일반대학원 신입학 추가모집 (2022년 5~6월 예정) [[link]](https://graduate.jbnu.ac.kr/graduate/8875/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGZ3JhZHVhdGUlMkYxMzE0JTJGYXJ0Y2xMaXN0LmRvJTNGcGFnZSUzRDElMjZzcmNoQ29sdW1uJTNEJTI2c3JjaFdyZCUzRCUyNmJic0NsU2VxJTNEJTI2YmJzT3BlbldyZFNlcSUzRCUyNnJnc0JnbmRlU3RyJTNEJTI2cmdzRW5kZGVTdHIlM0QlMjZpc1ZpZXdNaW5lJTNEZmFsc2UlMjZwYXNzd29yZCUzRCUyNg%3D%3D)
-* **지원 자격**: 2022년 8월 기준 컴퓨터공학 관련 (복수/부전공 포함) 학사소지자 (졸업예정자)로 상기 연구 주제에 관심이 있는 학생
+* **모집 인원**
+  * 2022년 9월에 학석사연계과정을 계획하는 학생 1 ~ 2명
+  * 2022년 9월에 석사과정을 계획하는 학생 1 ~ 2명
+* **모집 기간**: 
+  * 학석사연계과정: 2022년 6월까지 컨택
+  * 석사과정: 교수 면담 (메일 컨택) - 전북대학교 일반대학원 신입학 모집 (2022년 5~6월 예정) 
+* **지원 자격**
+  * 학석사연계과정: 2022년 8월 기준 5학기(3학년 1학기) 이수한 전북대학교 재학생으로서 총 98학점이상 취득자
+  * 석사과정: 2022년 8월 기준 컴퓨터공학 관련 (복수/부전공 포함) 학사소지자 (졸업예정자)로 상기 연구 주제에 관심이 있는 학생
 * **학생 지원 사항**: 등록금, 인건비, 연구 성과급, 국내외 학회 참석 지원, 교육 및 연구 장비 지원
 * **모집 절차**: 관심이 있는 학생은 jinhongjung@jbnu.ac.kr (지도교수: 정진홍)로 지원 의사를 메일로 보내주시면 추후 상담을 통해 결정됩니다. 
 
@@ -64,7 +74,7 @@ Author: Jinhong Jung (정진홍)
 
 ##### Research paper study 
 
-* 연구실에서 수행하는 연구와 관련해 data mining/machine learning 분야의 최신 학술대회 논문을 선정하여 정기적인 모임을 통해 토론/스터디 합니다.
+* 연구실에서 수행하는 연구와 관련해 data mining/machine learning 분야의 최신 학술 대회 논문을 선정하여 정기적인 모임을 통해 토론/스터디 합니다.
 
 ##### Major study
 
@@ -75,6 +85,7 @@ Author: Jinhong Jung (정진홍)
   * Big data analytic systems (e.g., hadoop/spark)
 
 
+<!--
 #### Undergraduate Research Internship Program
 학부연구생 인턴쉽 프로그램은 machine learning/data mining 관련 과목 스터디에 참여해서 배경지식을 공부하고, 연구실에서 수행하는 연구에 보조 역할로 참여하면서 (이력서에 활용 가능한 수준의) 연구 관련 경험을 쌓는 것을 목표로 합니다. 
 
@@ -82,7 +93,6 @@ Author: Jinhong Jung (정진홍)
 * **모집대상**: 전북대학교 학부 3~4학년 재학생 및 휴학생 (컴퓨터공학 및 복수/부전공 대상)
 
 
-<!--
 ##### Research participation
 학부연구생 인턴쉽 프로그램은 machine learning/data mining 관련 과목 스터디에 참여해서 배경지식을 공부하고, 연구실에서 수행하는 연구에 보조 역할로 참여하면서 (이력서에 활용 가능한 수준의) 연구 관련 경험을 쌓는 것을 목표로 합니다. 
 
