@@ -42,18 +42,18 @@ Author: Jinhong Jung (정진홍)
 
 
 * [**Graph machine learning**](): SNS의 친구 관계, 웹 문서의 하이퍼링크 관계, 컴퓨팅 기기들의 연결 관계등 실세계에는 다양한 개체들이 특정 관계로 연결되며 이러한 데이터는 그래프로 표현됩니다. 그래프 데이터는 이미지와 같이 격자형태의 데이터와 다르게 그 구조가 정해져 있지 않기 때문에 모델이 파악해야 하는 패턴의 복잡도가 크며, 최근 이러한 그래프 데이터를 학습하는 연구가 활발하게 진행되고 있습니다 [(link)](https://trends.google.co.kr/trends/explore?date=all&q=%2Fg%2F11nx0n3ymb){:target="_blank"}. 저희 연구실에서는 복잡하고, 동적이며, 다양한 정보를 표현하는 실세계 그래프에 대한 그래프 학습 모델을 연구합니다. 
-  - [Kakao if(kakao) 2021] 이미지 검색을 위한 그래프 뉴럴 네트워크 [(link)](https://bit.ly/3JsIDlj)
-  - [NAVER DEVIEW 2020] 그래프 뉴럴 네트워크 소개 [(link)](https://tv.naver.com/v/16969161)
-  - [NAVER DEVIEW 2021] Knowledge graph에서 그래프 뉴럴 네트워크 활용 [(link)](https://bit.ly/3vfbDrq)
+  - [Kakao if(kakao) 2021] 이미지 검색을 위한 그래프 뉴럴 네트워크 [(link)](https://bit.ly/3JsIDlj){:target="_blank"}
+  - [NAVER DEVIEW 2020] 그래프 뉴럴 네트워크 소개 [(link)](https://tv.naver.com/v/16969161){:target="_blank"}
+  - [NAVER DEVIEW 2021] Knowledge graph에서 그래프 뉴럴 네트워크 활용 [(link)](https://bit.ly/3vfbDrq){:target="_blank"}
 * [**Recommender systems**](): 특정 유저가 상품을 구매하거나 영화를 본 내역은 유저와 상품/영화 간의 관계로 그래프로 표현됩니다. 이러한 그래프는 유저에게 적합한 상품을 추천하는데 많이 활용되고 있습니다. 다양한 형태의 유저-상품 그래프상에서 효과적으로 추천할 수 있는 그래프 추천 시스템을 연구합니다. 
-  - [NAVER DEVIEW 2020] 장소 개인화 추천 시스템 [(link)](https://bit.ly/37JcqJj)
-  - [NAVER DEVIEW 2020] 추천 시스템 3.0 [(link)](https://bit.ly/3rGb611)
+  - [NAVER DEVIEW 2020] 장소 개인화 추천 시스템 [(link)](https://bit.ly/37JcqJj){:target="_blank"}
+  - [NAVER DEVIEW 2020] 추천 시스템 3.0 [(link)](https://bit.ly/3rGb611){:target="_blank"}
 * [**Knowledge graph mining**](): 특정 문장으로 부터 사실에 기반한 지식은 주어-동사-목적어와 같이 지식 개체간의 관계로 표현될 수 있으며, 이러한 관계들이 모여 지식 그래프를 형성합니다. 지식 그래프로부터 지식 추론, 보강, 해석등을 효과적으로 수행할 수 있는 그래프 학습 기법을 연구합니다.
-  - [NAVER DEVIEW 2021] Knowledge graph 구축 [(link)](https://bit.ly/3JzRSAa)
-  - [Kakao if(kakao) 2021] AI on Knowledge Graph [(link)](https://bit.ly/3756Hh3)
+  - [NAVER DEVIEW 2021] Knowledge graph 구축 [(link)](https://bit.ly/3JzRSAa){:target="_blank"}
+  - [Kakao if(kakao) 2021] AI on Knowledge Graph [(link)](https://bit.ly/3756Hh3){:target="_blank"}
 * [**Large-scale graph mining**](): 실세계 그래프는 수십 억개의 정점과 간선으로 구성될 수 있습니다. 대표적인 SNS인 페이스북에서는 월 27억명 이상의 사용자가 활동합니다. 이와 같이 거대한 그래프를 효율적이고 확장성 있게 분석하는 방법론을 연구합니다. 
-  - NAVER 그래프 데이터베이스 활용 사례 [(link)](https://d2.naver.com/helloworld/8446520)
-  - Kakao 대용량 분산 그래프 DB [(link)](https://tech.kakao.com/2016/01/29/opensource-1-s2graph/)
+  - NAVER 그래프 데이터베이스 활용 사례 [(link)](https://d2.naver.com/helloworld/8446520){:target="_blank"}
+  - Kakao 대용량 분산 그래프 DB [(link)](https://tech.kakao.com/2016/01/29/opensource-1-s2graph/){:target="_blank"}
 
 
 
