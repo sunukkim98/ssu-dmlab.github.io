@@ -85,9 +85,9 @@ Author: Jinhong Jung (정진홍)
     - [Kakao if(kakao) 2021] AI on Knowledge Graph [(link)](https://bit.ly/3756Hh3){:target="_blank"}
 * [**Large-scale graph mining**](): 실세계 그래프는 수십 억개의 정점과 간선으로 구성될 수 있습니다. 대표적인 SNS인 페이스북에서는 월 27억명 이상의 사용자가 활동합니다. 이와 같이 거대한 그래프를 효율적이고 확장성 있게 분석하는 방법론을 연구합니다. 
   - 관련 연구 실적: 
-  [[BalanSiNG]](/assets/resources/papers/balansingedbt20.pdf)
-  [[BePI]](/assets/resources/papers/bepiSIGMOD17.pdf)
-  [[BEAR]](/assets/resources/papers/bearSIGMOD15.pdf)
+  [[BalanSiNG]](/assets/resources/papers/balansingEDBT20.pdf){:target="_blank"}
+  [[BePI]](/assets/resources/papers/bepiSIGMOD17.pdf){:target="_blank"}
+  [[BEAR]](/assets/resources/papers/bearSIGMOD15.pdf){:target="_blank"}
   - 관련 산업계 동향
     - NAVER 그래프 데이터베이스 활용 사례 [(link)](https://d2.naver.com/helloworld/8446520){:target="_blank"}
     - Kakao 대용량 분산 그래프 DB [(link)](https://tech.kakao.com/2016/01/29/opensource-1-s2graph/){:target="_blank"}
