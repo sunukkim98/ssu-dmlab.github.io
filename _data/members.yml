@@ -1,4 +1,4 @@
-- name: 
+- name:
     en: "Jinhong Jung"
     ko: "정진홍"
   type: prof
@@ -7,42 +7,42 @@
   email: "jinhongjung (AT) jbnu.ac.kr"
   link: "https://jinhongjung.github.io/"
 
-- name: 
+- name:
     en: "Geonwoo Ko"
     ko: "고건우"
   type: undergrad
-  img: 
+  img:
   gender: man
-  affiliation: 
-  email: 
-  link: 
+  affiliation:
+  email:
+  link:
 
-- name: 
+- name:
     en: "Taesoo Kim"
     ko: "김태수"
   type: undergrad
-  img: 
+  img:
   gender: man
-  affiliation: 
-  email: 
-  link: 
+  affiliation:
+  email:
+  link:
 
-- name: 
+- name:
     en: "Jongwhi Lee"
     ko: "이종휘"
   type: undergrad
-  img: 
+  img:
   gender: man
-  affiliation: 
-  email: 
-  link: 
+  affiliation:
+  email:
+  link:
 
-- name: 
+- name:
     en: "Keonwoo Ro"
     ko: "노건우"
   type: undergrad_alumni
-  img: 
+  img:
   gender: man
-  affiliation: 
-  email: 
-  link: 
+  affiliation:
+  email:
+  link:
