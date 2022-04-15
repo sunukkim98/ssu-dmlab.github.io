@@ -7,6 +7,7 @@ brew install ruby
 brew install rbenv
 rbenv install 3.0.0
 rbenv global 3.0.0
+eval "$(rbenv init - bash)"
 gem install --user-install bundler jekyll
 echo 'export PATH="$HOME/.gem/ruby/3.0.0/bin:$PATH"' >> ~/.zshrc
 ```
