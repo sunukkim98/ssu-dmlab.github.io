@@ -1,4 +1,4 @@
-# Manual for the website of DSLAB @ JBNU
+# Manual for the website of [DSLAB @ JBNU](https://jbnu-dslab.github.io)
 
 ## Installation
 If you are using MacOS and zsh, install the following prerequisites:
