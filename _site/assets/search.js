@@ -1,1 +1,0 @@
-window.TEXT_SEARCH_DATA={'courses':[{'title':"Data Structure",'url':"/courses/ds"},{'title':"Algorithm",'url':"/courses/alg"}],'posts':[{'title':"Post with Header Image",'url':"/header-image/"},{'title':"Welcome",'url':"/welcome/"}]};
