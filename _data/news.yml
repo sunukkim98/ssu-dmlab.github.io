@@ -1,3 +1,10 @@
+- date: Jun 27, 2022
+  content: "Our work on node feature estimation has been accepted at <b>KDD 2022</b>!"
+  icon: "fas fa-file"
+  keyword: "Paper"
+  button_color: "success"
+  link: 
+
 - date: Mar 15, 2022
   content: "Our work on graph neural network on signed graphs has been published at <b>PLoS ONE</b>!"
   icon: "fas fa-file"

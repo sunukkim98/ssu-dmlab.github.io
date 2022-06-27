@@ -2,6 +2,24 @@
 - year: 2022
   month: Mar
   international: true
+  type: conference
+  title: "Accurate Node Feature Estimation with Structured Variational Graph Autoencoder"
+  authors:
+    - Jaemin Yoo
+    - Hyunsik Jeon
+    - Jinhong Jung
+    - U Kang
+  publisher:
+    venue: "ACM International Conference on Knowledge Discovery and Data Mining (SIGKDD) 2022"
+    link:
+  pdf: "https://arxiv.org/pdf/2206.04516.pdf"
+  bib: ""
+  code: "https://github.com/snudatalab/SVGA"
+  slide:
+
+- year: 2022
+  month: Mar
+  international: true
   type: journal
   title: "Signed Random Walk Diffusion for Effective Representation Learning in Signed Graphs"
   authors:
