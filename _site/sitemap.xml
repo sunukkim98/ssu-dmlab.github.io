@@ -2,11 +2,11 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:4000/courses/ds</loc>
-<lastmod>2022-03-30T17:45:32+09:00</lastmod>
+<lastmod>2022-04-28T17:50:02+09:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/courses/alg</loc>
-<lastmod>2022-03-30T17:45:32+09:00</lastmod>
+<lastmod>2022-04-28T17:50:02+09:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/header-image/</loc>
@@ -32,6 +32,9 @@
 <loc>http://localhost:4000/courses/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/recruitments/grad/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
@@ -39,9 +42,6 @@
 </url>
 <url>
 <loc>http://localhost:4000/publications/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/recruitment/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/research/</loc>
@@ -71,8 +71,16 @@
 <lastmod>2021-10-23T20:21:54+09:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/assets/resources/papers/mustadPLOS21.pdf</loc>
+<lastmod>2022-04-13T17:52:35+09:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/assets/resources/papers/qaCORIA17.pdf</loc>
 <lastmod>2021-10-23T20:22:30+09:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/resources/papers/sidnetPLOS22.pdf</loc>
+<lastmod>2022-03-30T17:50:38+09:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/assets/resources/papers/srwrICDM16.pdf</loc>
@@ -83,7 +91,7 @@
 <lastmod>2021-10-23T20:17:15+09:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/assets/resources/papers/surwPLOS19.pdf</loc>
+<loc>http://localhost:4000/assets/resources/papers/surePLOS19.pdf</loc>
 <lastmod>2021-10-23T20:19:01+09:00</lastmod>
 </url>
 <url>
@@ -113,5 +121,9 @@
 <url>
 <loc>http://localhost:4000/assets/resources/slides/srwrICDM16.pdf</loc>
 <lastmod>2021-10-23T20:30:29+09:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/recruitments/tuition.pdf</loc>
+<lastmod>2022-04-12T11:09:12+09:00</lastmod>
 </url>
 </urlset>
