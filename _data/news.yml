@@ -1,12 +1,19 @@
+- date: Nov 19, 2022
+  content: "Our work on dynamic graph augmentation has been accepted at <b>AAAI 2023</b>! 🎉"
+  icon: "fas fa-file"
+  keyword: "Paper"
+  button_color: "success"
+  link: 
+
 - date: Jun 27, 2022
-  content: "Our work on node feature estimation has been accepted at <b>KDD 2022</b>!"
+  content: "Our work on node feature estimation has been accepted at <b>KDD 2022</b>! 🎉"
   icon: "fas fa-file"
   keyword: "Paper"
   button_color: "success"
   link: 
 
 - date: Mar 15, 2022
-  content: "Our work on graph neural network on signed graphs has been published at <b>PLoS ONE</b>!"
+  content: "Our work on GNN on signed graphs has been published at <b>PLoS ONE</b>! 🎉"
   icon: "fas fa-file"
   keyword: "Paper"
   button_color: "success"
@@ -20,18 +27,11 @@
   link: ""
 
 - date: Aug 14, 2021
-  content: "Our work on temporal knowledge graph completion has been presented at <b>KDD 2021</b>!"
+  content: "Our work on temporal knowledge graph completion was presented at <b>KDD 2021</b>! 🎉"
   icon: "fas fa-file"
   keyword: "Paper"
   button_color: "success"
   link: 
-
-- date: May 1, 2021
-  content: "Geonwoo Ko, Jongwhi Lee, Keonwoo Ro, and Taesoo Kim joined our lab through our undergraduate research internship program. Welcome!"
-  icon: "fas fa-handshake"
-  keyword: "New Members"
-  button_color: "info"
-  link: "/members"
 
 - date: Mar 1, 2021
   content: "A research proposal for grant has been selected by NRF of Korea."
