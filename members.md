@@ -3,7 +3,7 @@ layout: article
 title: ""
 ---
 
-## Professor
+## Director
 {% assign member = site.data.members[0] %}
 <div class="article-list grid grid--sm grid--p-3">
     <div class="cell cell--4 cell--md-4 cell--lg-3">
