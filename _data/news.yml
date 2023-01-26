@@ -1,3 +1,17 @@
+- date: Jan 25, 2023
+  content: "Our work on sparse tensor compression has been accepted at <b>TheWebConf 2023</b>!  🎉"
+  icon: "fas fa-file"
+  keyword: "Paper"
+  button_color: "success"
+  link: 
+
+- date: Dec 23, 2022
+  content: "<b>Jong-whi Lee</b> won the AAAI-23 Student Scholarship! 🎉"
+  icon: "fas fa-award"
+  keyword: "Award"
+  button_color: "success"
+  link: 
+
 - date: Nov 19, 2022
   content: "Our work on dynamic graph augmentation has been accepted at <b>AAAI 2023</b>! 🎉"
   icon: "fas fa-file"

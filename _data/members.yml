@@ -10,17 +10,7 @@
 - name:
     en: "Geonwoo Ko"
     ko: "고건우"
-  type: undergrad
-  img:
-  gender: man
-  affiliation:
-  email:
-  link:
-
-- name:
-    en: "Taesoo Kim"
-    ko: "김태수"
-  type: undergrad
+  type: grad
   img:
   gender: man
   affiliation:
@@ -30,12 +20,52 @@
 - name:
     en: "Jong-whi Lee"
     ko: "이종휘"
-  type: undergrad
+  type: grad
   img: "jong-whi-lee.jpg"
   gender: man
   affiliation:
   email: "jong.whi.lee@jbnu.ac.kr"
   link: "https://github.com/dev-jwel"
+
+- name:
+    en: "Gyeongmin Gu"
+    ko: "구경민"
+  type: grad
+  img:
+  gender: man
+  affiliation:
+  email:
+  link:
+
+- name:
+    en: "Minseo Jeon"
+    ko: "전민서"
+  type: undergrad
+  img:
+  gender: man
+  affiliation:
+  email:
+  link:
+
+- name:
+    en: "Najeong Chae"
+    ko: "채나정"
+  type: undergrad
+  img:
+  gender: woman
+  affiliation:
+  email:
+  link:
+
+- name:
+    en: "Seunghan Lee"
+    ko: "이승한"
+  type: undergrad
+  img:
+  gender: man
+  affiliation:
+  email:
+  link:
 
 - name:
     en: "Keonwoo Ro"
@@ -44,5 +74,15 @@
   img:
   gender: man
   affiliation:
+  email:
+  link:
+
+- name:
+    en: "Taesoo Kim"
+    ko: "김태수"
+  type: undergrad_alumni
+  img:
+  gender: man
+  affiliation: "UNIST"
   email:
   link:

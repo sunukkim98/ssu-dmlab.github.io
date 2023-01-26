@@ -28,8 +28,7 @@ title: ""
     </div>
 </div>
 
-
-## Gradudate Students
+## Announcement
 <div class="item">
   <div class="item__image">
       <i class="fas fa-star fa-fw"></i>
@@ -44,6 +43,32 @@ title: ""
         </div>
     </div>
   </div>
+</div>
+
+## Gradudate Students
+<div class="article-list grid grid--sm grid--p-3">
+    {% for member in site.data.members %}
+    {% if member.type == "grad" %}
+    <div class="cell cell--4 cell--md-4 cell--lg-3">
+        <a href="{{ member.link }}" target="_blank" style="text-decoration: none;">
+            <div class="card card--clickable card--sm">
+              <div class="card__image">
+                {% if member.img != nil %}
+                    <img class="image" src="/assets/images/profile/{{member.img}}"/>
+                {% else %}
+                    <img class="image" src="/assets/images/profile/default-{{member.gender}}.png"/>
+                {% endif %}
+              </div>
+              <div class="card__content">
+                <div class="card__header" style="text-decoration: none;">
+                    <span>{{ member.name.en }}</span>
+                </div>
+              </div>
+            </div>
+        </a>
+    </div>
+    {% endif %}
+    {% endfor %}
 </div>
 
 <!--

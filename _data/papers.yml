@@ -1,4 +1,22 @@
 - year: 2023
+  month: Apr
+  international: true
+  type: conference
+  title: "NeuKron: Constant-Size Lossy Compression of Sparse Reorderable Matrices and Tensors"
+  authors:
+    - Taehyung Kwon
+    - Jihoon Ko
+    - Jinhong Jung
+    - Kijung Shin
+  publisher:
+    venue: "ACM The Web Conference 2023"
+    link:
+  pdf: ""
+  bib: ""
+  code: ""
+  slide:
+
+- year: 2023
   month: Feb
   international: true
   type: conference
