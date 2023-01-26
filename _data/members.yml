@@ -41,11 +41,11 @@
     en: "Minseo Jeon"
     ko: "전민서"
   type: undergrad
-  img:
+  img: "min-seo-jeon.jpeg"
   gender: man
   affiliation:
-  email:
-  link:
+  email: "raichal2000@jbnu.ac.kr"
+  link: 
 
 - name:
     en: "Najeong Chae"
