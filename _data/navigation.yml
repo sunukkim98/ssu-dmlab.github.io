@@ -36,3 +36,8 @@ header:
   - titles:
       en      : &EN       Courses
     url: /courses
+
+  - titles:
+      en      : &EN       Gallery
+    url: /gallery
+

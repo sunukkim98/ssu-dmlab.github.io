@@ -1,33 +1,40 @@
+- date: Feb 20, 2023
+  content: "<b>Jong-whi</b> won <a href='https://humantech.samsung.com/saitext/index.jsp' target='_blank'>Samsung HumanTech Paper Award</a>  (bronze, 3rd in CSE)  🎉"
+  icon: "fas fa-award"
+  keyword: "Award"
+  button_color: "info"
+  link: 
+
 - date: Jan 25, 2023
-  content: "Our work on sparse tensor compression has been accepted at <b>TheWebConf 2023</b>!  🎉"
+  content: "Our work on sparse tensor compression has been accepted at <b>TheWebConf 2023</b>  🎉"
   icon: "fas fa-file"
   keyword: "Paper"
   button_color: "success"
   link: 
 
 - date: Dec 23, 2022
-  content: "<b>Jong-whi Lee</b> won the AAAI-23 Student Scholarship! 🎉"
+  content: "<b>Jong-whi</b> won the AAAI-23 Student Scholarship 🎉"
   icon: "fas fa-award"
   keyword: "Award"
-  button_color: "success"
+  button_color: "info"
   link: 
 
 - date: Nov 19, 2022
-  content: "Our work on dynamic graph augmentation has been accepted at <b>AAAI 2023</b>! 🎉"
+  content: "Our work on dynamic graph augmentation has been accepted at <b>AAAI 2023</b> 🎉"
   icon: "fas fa-file"
   keyword: "Paper"
   button_color: "success"
   link: 
 
 - date: Jun 27, 2022
-  content: "Our work on node feature estimation has been accepted at <b>KDD 2022</b>! 🎉"
+  content: "Our work on node feature estimation has been accepted at <b>KDD 2022</b> 🎉"
   icon: "fas fa-file"
   keyword: "Paper"
   button_color: "success"
   link: 
 
 - date: Mar 15, 2022
-  content: "Our work on GNN on signed graphs has been published at <b>PLoS ONE</b>! 🎉"
+  content: "Our work on GNN on signed graphs has been published at <b>PLoS ONE</b> 🎉"
   icon: "fas fa-file"
   keyword: "Paper"
   button_color: "success"
@@ -41,7 +48,7 @@
   link: ""
 
 - date: Aug 14, 2021
-  content: "Our work on temporal knowledge graph completion was presented at <b>KDD 2021</b>! 🎉"
+  content: "Our work on temporal knowledge graph completion was presented at <b>KDD 2021</b> 🎉"
   icon: "fas fa-file"
   keyword: "Paper"
   button_color: "success"
@@ -58,5 +65,5 @@
   content: "Prof. Jung won the AAAI-21 Outstanding Program Committee Award."
   icon: "fas fa-award"
   keyword: "Award"
-  button_color: "success"
+  button_color: "info"
   link: "https://aaai.org/Awards/conference.php#:~:text=Jinhong%20Jung%20(Seoul%20National%20University%2C%20South%20Korea)"
