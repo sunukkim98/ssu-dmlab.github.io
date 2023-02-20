@@ -1,12 +1,12 @@
-- date: Feb 20, 2023
-  content: "<b>Jong-whi</b> won <a href='https://humantech.samsung.com/saitext/index.jsp' target='_blank'>Samsung HumanTech Paper Award</a>  (bronze, 3rd in CSE)  🎉"
-  icon: "fas fa-award"
-  keyword: "Award"
-  button_color: "info"
+- date: Feb 8, 2023
+  content: "<b>Geonwoo</b> and <b>Jong-whi</b> have participated in <a href='/gallery/'>AAAI 2023</a>."
+  icon: "fas fa-plane"
+  keyword: "Conference"
+  button_color: "primary"
   link: 
 
 - date: Jan 25, 2023
-  content: "Our work on sparse tensor compression has been accepted at <b>TheWebConf 2023</b>  🎉"
+  content: "Our work on sparse tensor compression has been accepted at <b>TheWebConf 2023</b> 🎉"
   icon: "fas fa-file"
   keyword: "Paper"
   button_color: "success"
