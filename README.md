@@ -38,6 +38,9 @@ To edit information on members, see `_data/members.yml`. This data will be rende
 ### Publications
 To edit information on publications, see `_data/papers.yml`. This data will by rendered by `publications.md`.
 
+### Photos
+To add photos to the gallery, add the image files to `assets/images/photos`. The file format is "YYYY-MM-DD-00.{jpeg,png}". The aspect ratio of each image should be a square (1:1).
 
 ## References
 * https://tianqi.name/jekyll-TeXt-theme/docs/en/quick-start
+
