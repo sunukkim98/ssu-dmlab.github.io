@@ -11,11 +11,11 @@
     en: "Geonwoo Ko"
     ko: "고건우"
   type: grad
-  img:
+  img: "geonwooko.jpg"
   gender: man
   affiliation:
-  email:
-  link:
+  email: "kw10222@jbnu.ac.kr"
+  link: "https://github.com/geonwooko"
 
 - name:
     en: "Jong-whi Lee"
@@ -45,7 +45,7 @@
   gender: man
   affiliation:
   email: "raichal2000@jbnu.ac.kr"
-  link: 
+  link:
 
 - name:
     en: "Najeong Chae"
