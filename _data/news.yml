@@ -1,3 +1,10 @@
+- date: Feb 20, 2023
+  content: "<b>Jong-whi</b> won <a href='https://humantech.samsung.com/saitext/index.jsp' target='_blank'>Samsung HumanTech Paper Award</a>  (<a href='/gallery/'>bronze, 3rd in CSE</a>)  🎉"
+  icon: "fas fa-award"
+  keyword: "Award"
+  button_color: "info"
+  link: 
+
 - date: Feb 8, 2023
   content: "<b>Geonwoo</b> and <b>Jong-whi</b> have participated in <a href='/gallery/'>AAAI 2023</a> ✈️ 🇺🇸"
   icon: "fas fa-plane"
