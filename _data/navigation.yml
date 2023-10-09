@@ -33,9 +33,9 @@ header:
       en      : &EN       Publications
     url: /publications
 
-  - titles:
-      en      : &EN       Courses
-    url: /courses
+  # - titles:
+  #     en      : &EN       Courses
+  #   url: /courses
 
   - titles:
       en      : &EN       Gallery

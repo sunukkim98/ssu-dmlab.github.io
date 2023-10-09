@@ -1,4 +1,22 @@
 - year: 2023
+  month: Dec
+  international: true
+  type: conference
+  title: "TensorCodec: Compact Lossy Compression of Tensors without Strong Data Assumptions"
+  authors:
+    - Taehyung Kwon
+    - Jihoon Ko
+    - Jinhong Jung
+    - Kijung Shin
+  publisher:
+    venue: "IEEE International Conference on Data Mining (ICDM) 2023"
+    link: "https://www.cloud-conf.net/icdm2023/"
+  pdf: "https://arxiv.org/pdf/2309.10310.pdf"
+  bib: ""
+  code: "https://github.com/kbrother/tensorcodec"
+  slide: ""
+
+- year: 2023
   month: Apr
   international: true
   type: conference
@@ -11,10 +29,10 @@
   publisher:
     venue: "ACM The Web Conference 2023"
     link:
-  pdf: ""
-  bib: ""
-  code: ""
-  slide:
+  pdf: "https://arxiv.org/pdf/2302.04570.pdf"
+  bib: "https://dblp.uni-trier.de/rec/conf/www/KwonKJS23.html?view=bibtex"
+  code: "https://github.com/kbrother/neukron"
+  slide: "http://dmlab.kaist.ac.kr/~kijungs/neukronWWW2023.pdf"
 
 - year: 2023
   month: Feb

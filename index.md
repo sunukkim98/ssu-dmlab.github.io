@@ -14,12 +14,51 @@ layout: article
 </div>
 </div>
 
-## About DSLAB @ JBNU
-<div style="hyphens: auto;">
-Welcome to Data Science Laboratory in the Division of Computer Science and Engineering at Jeonbuk National University. 
-Our research group is interested in data science with artificial intelligence and machine learning to develop effective and scalable algorithms for analyzing real-world data. 
-We specifically study for understanding relationships between entities on graph data with interesting applications such as ranking, recommender system, and anomaly detection. 
+## About DMLAB @ SSU
+{% for welcome in site.data.welcome %}
+<div class="item" id="largescreen">
+  <div class="item__image">
+    <img width="75" src="/assets/images/logo/newlogo.svg"/>
+  </div>
+  <div class="item__content">
+    <div class="item__header">
+      <h4>{{ welcome.headline }}</h4>
+    </div>
+    <div class="item__description" style="hyphens: auto;text-align: justify;">
+      <p>
+        {{ welcome.description }}
+      </p>
+    </div>
+  </div>
 </div>
+
+<div class="item" id="smallscreen">
+  <div class="item__content">
+    <div class="item__header">
+      <h4>{{ welcome.headline }}</h4>
+    </div>
+    <div class="item__description" style="hyphens: auto;">
+      <p>
+      <img width="45" src="/assets/images/logo/newlogo.svg" style="float:left;margin-right:10px;">
+      {{ welcome.description }}
+      </p>
+    </div>
+  </div>
+</div>
+{% endfor %}
+
+
+<!-- <div class="grid">
+  <div class="cell cell--2">
+    {%- include svg/newlogo.svg -%}
+  </div>
+  <div class="cell cell-auto">
+    <div style="hyphens: auto;">
+    </div>
+  </div>
+</div> -->
+
+
 
 ## Announcement
 

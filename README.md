@@ -1,17 +1,8 @@
-# Manual for the website of [DSLAB @ JBNU](https://jbnu-dslab.github.io)
+# Manual for the website of DMLAB @ SSU
 
 ## Installation
-If you are using MacOS, install the following prerequisites:
-```
-brew install ruby
-brew install rbenv
-rbenv install 3.0.0
-rbenv global 3.0.0
-eval "$(rbenv init - $(basename $SHELL))"
-gem install --user-install bundler jekyll
-echo 'export PATH="$HOME/.gem/ruby/3.0.0/bin:$PATH"' >> ~/.$(basename $SHELL)rc
-```
-
+To run this website on your local machine, you must install ruby and jekyll. 
+If you want to install jekyll on MacOs, please refer to [link](https://jekyllrb.com/docs/installation/macos/).
 Then, move to the root directory of this repository, and type the following to install bundle packages:
 ```
 bundle install
