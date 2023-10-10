@@ -127,9 +127,10 @@ title: ""
 </div>
 
 ## Alumni or Past Members
+<!--
 <div class="article-list grid grid--sm grid--p-3">
     {% for member in site.data.members %}
-    {% if member.type == "undergrad_alumni" %}
+    {% if member.type == "alumni" %}
     <div class="cell cell--4 cell--md-4 cell--lg-3">
         <a href="{{ member.link }}" target="_blank" style="text-decoration: none;">
             <div class="card card--clickable card--sm">
@@ -151,3 +152,5 @@ title: ""
     {% endif %}
     {% endfor %}
 </div>
+-->
+

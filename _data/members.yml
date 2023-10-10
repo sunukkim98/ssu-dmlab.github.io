@@ -20,7 +20,7 @@
 - name:
     en: "Jong-whi Lee"
     ko: "이종휘"
-  type: grad
+  type: alumni
   img: "jong-whi-lee.jpg"
   gender: man
   affiliation:
@@ -50,7 +50,7 @@
 - name:
     en: "Najeong Chae"
     ko: "채나정"
-  type: undergrad
+  type: alumni
   img: "najeongchae.jpg"
   gender: woman
   affiliation:
@@ -70,7 +70,7 @@
 - name:
     en: "Keonwoo Ro"
     ko: "노건우"
-  type: undergrad_alumni
+  type: alumni
   img:
   gender: man
   affiliation:
@@ -80,7 +80,7 @@
 - name:
     en: "Taesoo Kim"
     ko: "김태수"
-  type: undergrad_alumni
+  type: alumni
   img:
   gender: man
   affiliation: "UNIST"

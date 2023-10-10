@@ -1,3 +1,25 @@
+- date: Sep 3, 2023
+  content: "Our work on compact lossy tensor compression has been accepted at <b>ICDM 2023</b> 🎉"
+  icon: "fas fa-file"
+  keyword: "Paper"
+  button_color: "success"
+  link: 
+
+- date: Sep 1, 2023
+  content: "Our lab has been moved to Soongsil University"
+  icon: "fas fa-rss"
+  keyword: "News"
+  button_color: "info"
+  link: 
+
+
+- date: Aug 11, 2023
+  content: "<b>Seunghan</b> and <b>Najeong</b> (Team 버독) had the runner-up position at <a href='https://www.swuniv.kr/60/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=16021832&t=board' target='_blank'>2023 SW중심대학 공동AI경진대회</a> 🎉"
+  icon: "fas fa-award"
+  keyword: "Award"
+  button_color: "info"
+  link: 
+
 - date: Feb 20, 2023
   content: "<b>Jong-whi</b> won <a href='https://humantech.samsung.com/saitext/index.jsp' target='_blank'>Samsung HumanTech Paper Award</a>  (<a href='/gallery/'>bronze, 3rd in CSE</a>)  🎉"
   icon: "fas fa-award"
