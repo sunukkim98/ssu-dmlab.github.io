@@ -127,7 +127,7 @@ title: ""
 </div>
 
 ## Alumni or Past Members
-<!--
+
 <div class="article-list grid grid--sm grid--p-3">
     {% for member in site.data.members %}
     {% if member.type == "alumni" %}
@@ -152,5 +152,3 @@ title: ""
     {% endif %}
     {% endfor %}
 </div>
--->
-
