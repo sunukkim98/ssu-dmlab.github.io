@@ -4,7 +4,7 @@ layout: article
 
 <div class="hero hero--center hero--dark" style='background-image: url("/assets/images/researches/background.jpeg");'>
   <div class="hero__content">
-    <h3>Research Area of Data Science Lab</h3>
+    <h3>Research Area of Data Mining Lab</h3>
   </div>
 </div>
 
@@ -33,35 +33,38 @@ We specifically study for understanding relationships between entities on graph 
   </div>
 </div>
 #### Publications
+* Time-aware Random Walk Diffusion to Improve Dynamic Graph Learning, AAAI, 2023.
+* Accurate Node Feature Estimation with Structured Variational Graph Autoencoder, SIGKDD, 2022.
 * Signed Random Walk Diffusion for Effective Representation Learning in Signed Graphs, PLoS ONE, 2022.
-* Learning to Walk across Time for Interpretable Temporal Knowledge Graph Completion, SIGKDD, 2021.
 * Compressing Deep Graph Convolution Network With Multi-staged Knowledge Distillation, PLoS ONE, 2021.
 * Accurate Relational Reasoning in Edge-labeled Graphs by Multi-Labeled Random Walk with Restart, WWW Journal, 2020. 
 
 
 ---
 
-### Large-scale Graph Analytics
+### Large-scale Data Analytics
 <div class="item">
   <div class="item__image">
     <img class="image image--lg" src="/assets/images/researches/large.png"/>
   </div>
   <div class="item__content">
     <div class="item__header">
-      <h4>How can we design scalable algorithms for big graphs?</h4>
+      <h4>How can we design scalable algorithms for big data?</h4>
     </div>
     <div class="item__description">
       <p>
-      Networks are continuously growing thanks to recent advances in the Web and computing technologies; the extent of networks reaches tera- or peta-scale. As a result, traditional methods fail to compute a ranking in a reasonable time with restricted resources on very large graphs. Networks also become complicated by involving massive attributes on nodes and links to represent various events.
-      Those obstacles degrade the performance of applications on graphs in terms of speed and quality.
+      Data such as networks are continuously growing thanks to recent advances in the Web and computing technologies; the extent of networks reaches tera- or peta-scale. As a result, traditional methods fail to compute a ranking in a reasonable time with restricted resources on very large graphs. Networks also become complicated by involving massive attributes on nodes and links to represent various events.
+      Those obstacles degrade the performance of applications on data in terms of speed and quality.
       </p>
       <p>
-      In this project, we aim to develop efficient and scalable methods for faster mining on large-scale graphs. 
+      In this project, we aim to develop efficient and scalable methods for faster mining on large-scale data. 
       </p>
     </div>
   </div>
 </div>
 #### Publications
+* TensorCodec: Compact Lossy Compression of Tensors without Strong Data Assumptions, ICDM, 2023.
+* NeuKron: Constant-Size Lossy Compression of Sparse Reorderable Matrices and Tensors, The Web Conference, 2023.
 * Fast and Accurate Pseudoinverse with Sparse Matrix Reordering and Incremental Approach, Machine Learning, 2021.
 * BalanSiNG: Fast and Scalable Generation of Realistic Signed Networks, EDBT, 2021. 
 * BePI: Fast and Memory-Efficient Method for Billion-Scale Random Walk with Restart, SIGMOD, 2017.
@@ -69,7 +72,7 @@ We specifically study for understanding relationships between entities on graph 
 
 ---
 
-### Applied Data Science
+### Applied Data Science 
 <div class="item">
   <div class="item__image">
     <img class="image image--lg" src="/assets/images/researches/applied.png"/>
@@ -91,6 +94,7 @@ We specifically study for understanding relationships between entities on graph 
   </div>
 </div>
 #### Publications
+* Learning to Walk across Time for Interpretable Temporal Knowledge Graph Completion, SIGKDD, 2021.
 * Random Walk Based Ranking in Signed Social Networks: Model and Algorithms, KAIS, 2019.
 * Zoom-SVD: Fast and Memory Efficient Method for Extracting Key Pattern an Arbitrary Time Range, CIKM, 2018. 
 * A Comparative Study of Matrix Factorization and Random Walk with Restart in Recommender Systems, BigData, 2017.

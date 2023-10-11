@@ -1,4 +1,7 @@
 header:
+  - titles:
+      en      : &EN       Home
+    url: /
 
   - titles:
       # @start locale config
@@ -23,21 +26,21 @@ header:
       fr-FR   : *FR
       fr-LU   : *FR
       # @end locale config
-    url: /members
+    url: /members/
 
   - titles:
       en      : &EN       Research
-    url: /research
+    url: /research/
 
   - titles:
       en      : &EN       Publications
-    url: /publications
+    url: /publications/
 
   # - titles:
   #     en      : &EN       Courses
   #   url: /courses
 
-  - titles:
-      en      : &EN       Gallery
-    url: /gallery
+  # - titles:
+  #    en      : &EN       Gallery
+  #  url: /gallery
 
