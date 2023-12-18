@@ -18,16 +18,16 @@ Author: Jinhong Jung (정진홍)
 
 ### Undergraduate Reserach Internship Program
 * **모집 인원**
-  * 2023년 12월부터 학부연구활동을 수행할 수 있는 학생 2명
+  * 모집 완료
 * **모집 기간**: 
-  * 2023년 11월 ~ 모집 완료 시점 까지
+  * 모집 완료
 * **학생 지원 사항**
   - 연구지원비
   - 연구 성과급 (연구/과제 성과에 따라)
   - 교육 및 연구 장비 지원
   - 국내외 학회 참석 지원
 * **모집 절차**
-  - 관심이 있는 학생은 [link](https://forms.gle/GGcyrjHGBxV9M3QL9)를 클릭해서 신청해주세요. 
+  - <strike>관심이 있는 학생은 link를 클릭해서 신청해주세요. </strike>
 
 ### Graduate Program
 
