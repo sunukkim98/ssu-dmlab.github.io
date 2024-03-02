@@ -38,7 +38,7 @@ title: ""
         <div class="grid">
             <div class="cell cell--auto">
                 <a class="button button--info button--rounded button--sm" href="">Join Our Lab</a> 
-                We are looking for graduate students who are enthusiastically interested in artificial intelligence and meachine learning for data science. Please click <a href="/recruitments/grad" target="_blank">[link]</a> if you're interested!
+                We are looking for graduate students who are enthusiastically interested in artificial intelligence and meachine learning for data science. Please click <a href="/recruitments" target="_blank">[link]</a> if you're interested!
             </div>
         </div>
     </div>
@@ -126,7 +126,7 @@ title: ""
     {% endfor %}
 </div>
 
-## Alumni or Past Members
+## Past Members
 
 <div class="article-list grid grid--sm grid--p-3">
     {% for member in site.data.members %}
@@ -134,6 +134,7 @@ title: ""
     <div class="cell cell--4 cell--md-4 cell--lg-3">
         <a href="{{ member.link }}" target="_blank" style="text-decoration: none;">
             <div class="card card--clickable card--sm">
+              <!--
               <div class="card__image">
                 {% if member.img != nil %}
                     <img class="image" src="/assets/images/profile/{{member.img}}"/>
@@ -141,6 +142,7 @@ title: ""
                     <img class="image" src="/assets/images/profile/default-{{member.gender}}.png"/>
                 {% endif %}
               </div>
+              -->
               <div class="card__content">
                 <div class="card__header" style="text-decoration: none;">
                     <span>{{ member.name.en }}</span>

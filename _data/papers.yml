@@ -1,3 +1,39 @@
+- year: 2024 (to appear)
+  month: 
+  international: true
+  type: journal
+  title: "Learning Disentangled Representations in Signed Directed Graphs without Social Assumptions"
+  authors:
+    - Geonwoo Ko
+    - Jinhong Jung
+  publisher:
+    venue: "Information Sciences"
+    link: ""
+  pdf: ""
+  bib: 
+  code: "https://github.com/geonwooko/DINES"
+  slide: 
+
+- year: 2024 (to appear)
+  month: 
+  international: true
+  type: journal
+  title: " Random Walk with Restart on Hypergraphs: Fast Computation and an Application to Anomaly Detection"
+  authors:
+    - Jaewan Chun
+    - Geon Lee
+    - Kijung Shin
+    - Jinhong Jung
+  publisher:
+    venue: "Data Mining and Knowledge Discovery"
+    link: ""
+  pdf: "https://jinhongjung.github.io/assets/resources/papers/archerDAMI24.pdf"
+  bib: 
+  code: "https://github.com/jaewan01/ARCHER"
+  slide: 
+
+
+
 - year: 2023
   month: Dec
   international: true

@@ -1,3 +1,4 @@
+
 - name:
     en: "Jinhong Jung"
     ko: "정진홍"
@@ -6,6 +7,7 @@
   affiliation: "Division of Computer Science and Engineering at Jeonbuk National University"
   email: "jinhongjung (AT) jbnu.ac.kr"
   link: "https://jinhongjung.github.io/"
+
 
 - name:
     en: "Geonwoo Ko"
@@ -48,6 +50,66 @@
   link:
 
 - name:
+    en: "Seunghan Lee"
+    ko: "이승한"
+  type: undergrad
+  img: "SeunghanLee.jpg"
+  gender: man
+  affiliation:
+  email: "juajua56@jbnu.ac.kr"
+  link:
+
+- name:
+    en: "Seokhyeon Cho"
+    ko: "조석현"
+  type: undergrad
+  img: 
+  gender: man
+  affiliation:
+  email: 
+  link: 
+
+- name:
+    en: "Daewon Gwak"
+    ko: "곽대원"
+  type: undergrad
+  img: 
+  gender: man
+  affiliation:
+  email: 
+  link: 
+
+- name:
+    en: "Jongyoon Choi"
+    ko: "최종윤"
+  type: undergrad
+  img: 
+  gender: man
+  affiliation:
+  email: 
+  link: 
+
+- name:
+    en: "Cheolhee Jeong"
+    ko: "최종윤"
+  type: undergrad
+  img: 
+  gender: man
+  affiliation:
+  email: 
+  link: 
+
+- name:
+    en: "Junwoo Jung"
+    ko: "정준우"
+  type: undergrad
+  img: 
+  gender: man
+  affiliation:
+  email: 
+  link: 
+
+- name:
     en: "Najeong Chae"
     ko: "채나정"
   type: alumni
@@ -57,15 +119,6 @@
   email: "skwjd1356@jbnu.ac.kr"
   link: "https://www.notion.so/Najeong-Chae-a865ae30e4684997bf3b6645796cd26c?pvs=4"
 
-- name:
-    en: "Seunghan Lee"
-    ko: "이승한"
-  type: undergrad
-  img: "SeunghanLee.jpg"
-  gender: man
-  affiliation:
-  email: "juajua56@jbnu.ac.kr"
-  link:
 
 - name:
     en: "Keonwoo Ro"

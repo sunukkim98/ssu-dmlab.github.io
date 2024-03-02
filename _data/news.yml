@@ -1,3 +1,10 @@
+- date: Mar 2, 2024
+  content: "Our work on learning signed graphs has been accepted for the publication of <b>InfoSci</b>"
+  icon: "fas fa-file"
+  keyword: "Paper"
+  button_color: "success"
+  link: 
+
 - date: Nov 24, 2023
   content: "Our work on hypergraph RWR has been accepted for the Journal Track of <b>ECML-PKDD</b>"
   icon: "fas fa-file"
@@ -28,7 +35,7 @@
 
 
 - date: Aug 11, 2023
-  content: "<b>Seunghan</b> and <b>Najeong</b> had the runner-up position at <a href='https://www.swuniv.kr/60/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=16021832&t=board' target='_blank'>2023 SW중심대학 AI경진대회</a> 🎉"
+  content: "<b>Seunghan</b> and <b>Najeong</b> had the runner-up position at <a href='https://www.swuniv.kr/60/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=16021832&t=board' target='_blank'>2023 소중대 AI경진대회</a> 🎉"
   icon: "fas fa-award"
   keyword: "Award"
   button_color: "info"
@@ -44,7 +51,7 @@
 - date: Feb 8, 2023
   content: "<b>Geonwoo</b> and <b>Jong-whi</b> have participated in <a href='/gallery/'>AAAI 2023</a> ✈️ 🇺🇸"
   icon: "fas fa-plane"
-  keyword: "Conference"
+  keyword: "Travel"
   button_color: "primary"
   link: 
 
