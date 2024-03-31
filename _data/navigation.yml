@@ -36,6 +36,11 @@ header:
       en      : &EN       Publications
     url: /publications/
 
+  - titles:
+      en      : &EN       Seminar
+    url: /seminar/
+
+
   # - titles:
   #     en      : &EN       Courses
   #   url: /courses
