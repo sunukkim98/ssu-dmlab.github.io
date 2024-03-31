@@ -5,7 +5,7 @@ title: ""
 
 ## About Seminar
 
-In this seminar, we discuss about diverse research topics such as data mining, graph machine learning, and applied data science including recommender systems. Here are the details of the seminar.
+In this seminar, we discuss diverse research topics such as data mining, graph machine learning, and applied data science including recommender systems. Here are the details of the seminar.
 
 * Time: Every thursday, 19:00 - 20:00
 * Place: 숭실대학교 정보과학관 301호
