@@ -1,7 +1,13 @@
-- date: Apr 05, 2024
+- date: Apr 17, 2024
   title: TBD
-  speaker: Geonwoo Ko
+  speaker: Jongyoon Choi
   paper: 
+  slide: 
+
+- date: Apr 05, 2024
+  title: Large Language Models with Graph Augmentation for Recommendation
+  speaker: Geonwoo Ko
+  paper: https://arxiv.org/abs/2311.00423
   slide: 
 
 - date: Mar 28, 2024
