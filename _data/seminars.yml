@@ -1,14 +1,20 @@
-- date: Apr 17, 2024
+- date: May 02, 2024
   title: TBD
-  speaker: Jongyoon Choi
+  speaker: Seokhyeon Cho
   paper: 
   slide: 
+  
+- date: Apr 17, 2024
+  title: Automated Self Supervised Learning for Recommendation
+  speaker: Jongyoon Choi
+  paper: https://arxiv.org/pdf/2303.07797.pdf
+  slide: https://drive.google.com/file/d/1Ekt_N0hqYZuN7qTkw1t7fMHGtPbko8ne/view?usp=drive_link
 
 - date: Apr 05, 2024
   title: Large Language Models with Graph Augmentation for Recommendation
   speaker: Geonwoo Ko
   paper: https://arxiv.org/abs/2311.00423
-  slide: 
+  slide: https://drive.google.com/file/d/1ek_z6pOj7djL4TGGQ0nKgxnFAWpzeK6H/view?usp=drive_link
 
 - date: Mar 28, 2024
   title: Time-aware Random Walk Diffusion to Improve Dynamic Graph Learning
