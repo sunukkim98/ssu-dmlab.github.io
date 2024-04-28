@@ -15,9 +15,9 @@ In this seminar, we discuss diverse research topics such as data mining, graph m
 |Date|Title|Speaker|Slide|
 |:---:|:---:|:---:|:---:|
 {% for seminar in site.data.seminars -%}
-{%- if forloop.first == true -%}
+{% if forloop.first == true -%}
 |{{seminar.date}}|`Upcoming` [{{seminar.title}}]({{seminar.paper}})|{{seminar.speaker}}| [[link]({{seminar.slide}})]
-{%- else -%}
+{% else -%}
 |{{seminar.date}}|[{{seminar.title}}]({{seminar.paper}})|{{seminar.speaker}}| [[link]({{seminar.slide}})]
-{% endif %}
-{% endfor %}
+{% endif -%}
+{% endfor -%}
