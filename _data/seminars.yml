@@ -1,8 +1,8 @@
 - date: May 09, 2024
-  title: TBD
+  title: Recommender Systems with Generative Retrieval
   speaker: Junwoo Jung
-  paper: 
-  slide: 
+  paper: https://arxiv.org/abs/2305.05065
+  slide: https://docs.google.com/presentation/d/1AQkvrw1jl2KoE6UZdmPA-tq2YyC4Ngd9/edit#slide=id.p1
   
 - date: May 02, 2024
   title: Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks
