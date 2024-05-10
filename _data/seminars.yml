@@ -1,8 +1,14 @@
+- date: May 09, 2024
+  title: Recommender Systems with Generative Retrieval
+  speaker: Junwoo Jung
+  paper: https://arxiv.org/abs/2305.05065
+  slide: https://docs.google.com/presentation/d/1AQkvrw1jl2KoE6UZdmPA-tq2YyC4Ngd9/edit#slide=id.p1
+  
 - date: May 02, 2024
-  title: TBD
+  title: Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks
   speaker: Seokhyeon Cho
-  paper: 
-  slide: 
+  paper: https://arxiv.org/abs/2005.11401
+  slide: https://drive.google.com/file/d/1xhZvJIGT5liZ31tmIiEeUTeGKyxO4xB2/view?usp=drive_link
   
 - date: Apr 17, 2024
   title: Automated Self Supervised Learning for Recommendation
