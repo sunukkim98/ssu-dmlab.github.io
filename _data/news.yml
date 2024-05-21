@@ -1,3 +1,10 @@
+- date: May 17, 2024
+  content: "Our work on compact irregular tensor compression has been accepted at <b>KDD 2024</b>"
+  icon: "fas fa-file"
+  keyword: "Paper"
+  button_color: "success"
+  link: 
+
 - date: Mar 2, 2024
   content: "Our work on learning signed graphs has been accepted for the publication of <b>InfoSci</b>"
   icon: "fas fa-file"
