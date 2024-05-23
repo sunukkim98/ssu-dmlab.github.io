@@ -1,4 +1,23 @@
 - year: 2024 (to appear)
+  month: Aug
+  international: true
+  type: conference
+  title: "Compact Decomposition of Irregular Tensors for Data Compression: From Sparse to Dense to High-Order Tensors"
+  authors:
+    - Taehyung Kwon
+    - Jihoon Ko
+    - Jinhong Jung
+    - Jun-Gi Jang
+    - Kijung Shin
+  publisher:
+    venue: "ACM International Conference on Knowledge Discovery and Data Mining (SIGKDD) 2024"
+    link:
+  pdf: ""
+  bib: ""
+  code: ""
+  slide: ""
+
+- year: 2024 (to appear)
   month: 
   international: true
   type: journal
