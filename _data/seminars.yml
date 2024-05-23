@@ -1,14 +1,14 @@
 - date: May 23, 2024
-  title: TBD
+  title: LightGCL : SIMPLE YET EFFECTIVE GRAPH CONTRASTIVE LEARNING FOR RECOMMENDATION
   speaker: Cheolhee Jung
-  paper: TBD
-  slide: TBD
+  paper: https://arxiv.org/pdf/2302.08191
+  slide: https://drive.google.com/file/d/1Do7fnmJ5sKotrzNSAsnu18FG99iClwqq/view?usp=drive_link
 
 - date: May 09, 2024
   title: Recommender Systems with Generative Retrieval
   speaker: Junwoo Jung
   paper: https://arxiv.org/abs/2305.05065
-  slide: https://docs.google.com/presentation/d/1AQkvrw1jl2KoE6UZdmPA-tq2YyC4Ngd9/edit#slide=id.p1
+  slide: https://drive.google.com/file/d/1-9IguiQb1T_LVfH9W3JPaIaLWDYZ6pB-/view?usp=drive_link
   
 - date: May 02, 2024
   title: Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks
