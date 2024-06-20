@@ -1,3 +1,21 @@
+- date: Jun 27, 2024
+  title: TBD
+  speaker: Geonwoo Ko
+  paper: 
+  slide: 
+
+- date: Jun 20, 2024
+  title: "Dvine : Directed Network Embedding with virtual Negative Edges"
+  speaker: Minseo Jeon
+  paper: http://dmlab.kaist.ac.kr/~kijungs/papers/divineWSDM2022.pdf
+  slide: https://drive.google.com/file/d/1WmrHI-Us7FLYHOqGgtkSc1zELCFND156/view?usp=share_link
+
+- date: May 30, 2024
+  title: "Predict Then Propagate: Graph Neural Networks Meet Personalized Pagerank"
+  speaker: DaeWon Gwak
+  paper: https://arxiv.org/abs/1810.05997
+  slide: https://drive.google.com/file/d/1Fk0YwsOTuogBjkGQAOnAWH5kA5-GD4_B/view?usp=drive_link
+
 - date: May 09, 2024
   title: Recommender Systems with Generative Retrieval
   speaker: Junwoo Jung
