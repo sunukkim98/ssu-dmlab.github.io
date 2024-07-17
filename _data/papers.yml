@@ -1,4 +1,22 @@
 - year: 2024 (to appear)
+  month: Oct
+  international: true
+  type: conference
+  title: "MuLe: Multi-Grained Graph Learning for Multi-Behavior Recommendation"
+  authors:
+    - Seunghan Lee
+    - Geonwoo Ko
+    - Hyun-je Song
+    - Jinhong Jung
+  publisher:
+    venue: "ACM International Conference on Information and Knowledge Management (CIKM) 2024"
+    link: 
+  pdf: ""
+  bib: ""
+  code: "https://github.com/geonwooko/MULE"
+  slide: ""
+  
+- year: 2024 (to appear)
   month: Aug
   international: true
   type: conference
@@ -17,7 +35,7 @@
   code: ""
   slide: ""
 
-- year: 2024 (to appear)
+- year: 2024
   month: 
   international: true
   type: journal
@@ -28,7 +46,7 @@
   publisher:
     venue: "Information Sciences"
     link: ""
-  pdf: ""
+  pdf: "https://www.sciencedirect.com/science/article/abs/pii/S002002552400286X"
   bib: 
   code: "https://github.com/geonwooko/DINES"
   slide: 

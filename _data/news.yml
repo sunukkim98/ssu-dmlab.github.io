@@ -1,3 +1,10 @@
+- date: Jun 17, 2024
+  content: "Our work on multi-behavior recommendation has been accepted at <b>CIKM 2024</b>"
+  icon: "fas fa-file"
+  keyword: "Paper"
+  button_color: "success"
+  link: 
+
 - date: May 17, 2024
   content: "Our work on compact irregular tensor compression has been accepted at <b>KDD 2024</b>"
   icon: "fas fa-file"
