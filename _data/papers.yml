@@ -1,4 +1,22 @@
 - year: 2024 (to appear)
+  month: Oct
+  international: true
+  type: conference
+  title: "MuLe: Multi-Grained Graph Learning for Multi-Behavior Recommendation"
+  authors:
+    - Seunghan Lee*
+    - Geonwoo Ko*
+    - Hyun-Je Song†
+    - Jinhong Jung†
+  publisher:
+    venue: "ACM International Conference on Information and Knowledge Management (CIKM) 2024"
+    link:
+  pdf: ""
+  bib: ""
+  code: ""
+  slide: ""
+
+- year: 2024 (to appear)
   month: Aug
   international: true
   type: conference
@@ -18,7 +36,7 @@
   slide: ""
 
 - year: 2024 (to appear)
-  month: 
+  month:
   international: true
   type: journal
   title: "Learning Disentangled Representations in Signed Directed Graphs without Social Assumptions"
@@ -29,12 +47,12 @@
     venue: "Information Sciences"
     link: ""
   pdf: ""
-  bib: 
+  bib:
   code: "https://github.com/geonwooko/DINES"
-  slide: 
+  slide:
 
 - year: 2024 (to appear)
-  month: 
+  month:
   international: true
   type: journal
   title: " Random Walk with Restart on Hypergraphs: Fast Computation and an Application to Anomaly Detection"
@@ -47,9 +65,9 @@
     venue: "Data Mining and Knowledge Discovery"
     link: ""
   pdf: "https://jinhongjung.github.io/assets/resources/papers/archerDAMI24.pdf"
-  bib: 
+  bib:
   code: "https://github.com/jaewan01/ARCHER"
-  slide: 
+  slide:
 
 
 
