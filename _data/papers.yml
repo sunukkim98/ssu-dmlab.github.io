@@ -35,8 +35,8 @@
   code: ""
   slide: ""
 
-- year: 2024 (to appear)
-  month:
+- year: 2024
+  month: 
   international: true
   type: journal
   title: "Learning Disentangled Representations in Signed Directed Graphs without Social Assumptions"
@@ -46,8 +46,8 @@
   publisher:
     venue: "Information Sciences"
     link: ""
-  pdf: ""
-  bib:
+  pdf: "https://www.sciencedirect.com/science/article/abs/pii/S002002552400286X"
+  bib: 
   code: "https://github.com/geonwooko/DINES"
   slide:
 
