@@ -139,3 +139,13 @@
   affiliation: "UNIST"
   email:
   link:
+
+- name:
+    en: "Sunuk Kim"
+    ko: "김선욱"
+  type: grad
+  img: "sunukkim.jpg"
+  gender: man
+  affiliation:
+  email: "sunukkim@soongsil.ac.kr"
+  link: "https://raiutc.github.io/"
