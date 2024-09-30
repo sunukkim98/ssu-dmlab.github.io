@@ -1,3 +1,40 @@
+- year: 2025 (to appear)
+  month:
+  international: true
+  type: journal
+  title: "Compact Lossy Compression of Tensors via Neural Tensor-Train Decomposition"
+  authors:
+    - Jihoon Ko
+    - Taehyung Kwon
+    - Jinhong Jung
+    - Jun-Gi Jang
+    - Kijung Shin
+  publisher:
+    venue: "Knowledge and Information Systems"
+    link:
+  pdf: ""
+  bib: ""
+  code: ""
+  slide: ""
+
+- year: 2024 (to appear)
+  month: Dec
+  international: true
+  type: conference
+  title: "ELiCiT: Effective and Lightweight Lossy Compression of Tensors"
+  authors:
+    - Jihoon Ko
+    - Taehyung Kwon
+    - Jinhong Jung
+    - Kijung Shin
+  publisher:
+    venue: "IEEE International Conference of Data Mining (ICDM) 2024"
+    link:
+  pdf: ""
+  bib: ""
+  code: ""
+  slide: ""
+
 - year: 2024 (to appear)
   month: Oct
   international: true
@@ -36,7 +73,7 @@
   slide: ""
 
 - year: 2024
-  month: 
+  month:
   international: true
   type: journal
   title: "Learning Disentangled Representations in Signed Directed Graphs without Social Assumptions"
@@ -47,7 +84,7 @@
     venue: "Information Sciences"
     link: ""
   pdf: "https://www.sciencedirect.com/science/article/abs/pii/S002002552400286X"
-  bib: 
+  bib:
   code: "https://github.com/geonwooko/DINES"
   slide:
 

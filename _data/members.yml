@@ -42,7 +42,7 @@
 - name:
     en: "Minseo Jeon"
     ko: "전민서"
-  type: undergrad
+  type: grad
   img: "min-seo-jeon.jpeg"
   gender: man
   affiliation:
@@ -63,51 +63,71 @@
     en: "Seokhyeon Cho"
     ko: "조석현"
   type: undergrad
-  img: 
+  img:
   gender: man
   affiliation:
-  email: 
-  link: 
+  email:
+  link:
 
 - name:
     en: "Daewon Gwak"
     ko: "곽대원"
   type: undergrad
-  img: 
+  img:
   gender: man
   affiliation:
-  email: 
-  link: 
+  email:
+  link:
 
 - name:
     en: "Jongyoon Choi"
     ko: "최종윤"
   type: undergrad
-  img: 
+  img:
   gender: man
   affiliation:
-  email: 
-  link: 
+  email:
+  link:
 
 - name:
     en: "Cheolhee Jeong"
-    ko: "최종윤"
+    ko: "정철희"
   type: undergrad
-  img: 
+  img:
   gender: man
   affiliation:
-  email: 
-  link: 
+  email:
+  link:
 
 - name:
     en: "Junwoo Jung"
     ko: "정준우"
   type: undergrad
-  img: 
+  img:
   gender: man
   affiliation:
-  email: 
-  link: 
+  email:
+  link:
+
+- name:
+    en: "Jiseung Hyun"
+    ko: "현지승"
+  type: undergrad
+  img:
+  gender: man
+  affiliation:
+  email:
+  link:
+
+- name:
+    en: "Jaehyun Park"
+    ko: "박재현"
+  type: undergrad
+  img:
+  gender: man
+  affiliation:
+  email:
+  link:
 
 - name:
     en: "Najeong Chae"

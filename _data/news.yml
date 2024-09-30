@@ -1,3 +1,17 @@
+- date: Sep 24, 2024
+  content: "Our work on lossy tensor compression has been accepted at <a href='https://link.springer.com/journal/10115' target='_blank'>KAIS</a>"
+  icon: "fas fa-file"
+  keyword: "Paper"
+  button_color: "success"
+  link: "/publications"
+
+- date: Sep 6, 2024
+  content: "Our work on compact tensor compression has been accepted at <a href='https://icdm2024.org' target='_blank'>ICDM 2024</a>"
+  icon: "fas fa-file"
+  keyword: "Paper"
+  button_color: "success"
+  link: "/publications"
+
 - date: July 16, 2024
   content: "Our work on multi-behavior recommendation has been accepted at <a href='https://cikm2024.org/' target='_blank'>CIKM 2024</a>"
   icon: "fas fa-file"

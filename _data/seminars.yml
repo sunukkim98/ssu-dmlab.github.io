@@ -1,8 +1,14 @@
 - date: Sep 30, 2024
   title: "Hypergraph Neural Networks"
-  speaker: DaeWon Gwak
+  speaker: Daewon Gwak
   paper: https://arxiv.org/pdf/1809.09401
   slide: https://drive.google.com/file/d/1W7CuB4F7cd0YaM0k_2ptgdqeRjr3rqDo/view?usp=drive_link
+
+- date: Summer, 2024
+  title: "Lab Study on NLP"
+  speaker: Lab Members
+  paper:
+  slide:
 
 - date: Jun 20, 2024
   title: "Dvine : Directed Network Embedding with virtual Negative Edges"
@@ -12,7 +18,7 @@
 
 - date: May 30, 2024
   title: "Predict Then Propagate: Graph Neural Networks Meet Personalized Pagerank"
-  speaker: DaeWon Gwak
+  speaker: Daewon Gwak
   paper: https://arxiv.org/abs/1810.05997
   slide: https://drive.google.com/file/d/1Fk0YwsOTuogBjkGQAOnAWH5kA5-GD4_B/view?usp=drive_link
 
@@ -27,13 +33,13 @@
   speaker: Junwoo Jung
   paper: https://arxiv.org/abs/2305.05065
   slide: https://drive.google.com/file/d/1-9IguiQb1T_LVfH9W3JPaIaLWDYZ6pB-/view?usp=drive_link
-  
+
 - date: May 02, 2024
   title: Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks
   speaker: Seokhyeon Cho
   paper: https://arxiv.org/abs/2005.11401
   slide: https://drive.google.com/file/d/1xhZvJIGT5liZ31tmIiEeUTeGKyxO4xB2/view?usp=drive_link
-  
+
 - date: Apr 17, 2024
   title: Automated Self Supervised Learning for Recommendation
   speaker: Jongyoon Choi
