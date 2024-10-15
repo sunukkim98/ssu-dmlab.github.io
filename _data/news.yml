@@ -1,3 +1,11 @@
+- date: Oct 17, 2024
+  content: "Daewon, Jaehyun, and Jongyoon won Encouragement Award at <a href='https://fashion-how.org/
+' target='_blank'>2024 ETRI Self-Improving AI Competition</a>"
+  icon: "fas fa-award"
+  keyword: "Award"
+  button_color: "info"
+  link: ""
+
 - date: Sep 24, 2024
   content: "Our work on lossy tensor compression has been accepted at <a href='https://link.springer.com/journal/10115' target='_blank'>KAIS</a>"
   icon: "fas fa-file"
