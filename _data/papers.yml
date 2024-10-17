@@ -17,7 +17,7 @@
   code: ""
   slide: ""
 
-- year: 2024 (to appear)
+- year: 2024
   month: Dec
   international: true
   type: conference
@@ -48,12 +48,12 @@
   publisher:
     venue: "ACM International Conference on Information and Knowledge Management (CIKM) 2024"
     link:
-  pdf: ""
+  pdf: "https://drive.google.com/file/d/1bJjydUt2nMb5ojgFa2uHDkZ8sYJ1uqnx/view?usp=drive_link"
   bib: ""
-  code: ""
-  slide: ""
+  code: "https://github.com/geonwooko/MULE"
+  slide: "https://drive.google.com/file/d/1I0natehK7aTpb2MEhenerO29u8D4xdgl/view?usp=drive_link"
 
-- year: 2024 (to appear)
+- year: 2024
   month: Aug
   international: true
   type: conference
@@ -67,10 +67,10 @@
   publisher:
     venue: "ACM International Conference on Knowledge Discovery and Data Mining (SIGKDD) 2024"
     link:
-  pdf: ""
+  pdf: "http://dmlab.kaist.ac.kr/~kijungs/papers/lightitKDD2024.pdf"
   bib: ""
   code: ""
-  slide: ""
+  slide: "http://dmlab.kaist.ac.kr/~kijungs/lightitKDD2024.pdf"
 
 - year: 2024
   month:

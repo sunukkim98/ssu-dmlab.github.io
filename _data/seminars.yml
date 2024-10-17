@@ -7,8 +7,8 @@
 - date: Oct 7, 2024
   title: "MuLe: Multi-Grained Graph Learning for Multi-Behavior Recommendation"
   speaker: Geonwoo Go
-  paper: .
-  slide: .
+  paper: https://drive.google.com/file/d/1bJjydUt2nMb5ojgFa2uHDkZ8sYJ1uqnx/view?usp=drive_link
+  slide: https://drive.google.com/file/d/1I0natehK7aTpb2MEhenerO29u8D4xdgl/view?usp=drive_link
 
 - date: Sep 30, 2024
   title: "Hypergraph Neural Networks"
