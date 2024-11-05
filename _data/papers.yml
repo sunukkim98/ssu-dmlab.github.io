@@ -1,3 +1,38 @@
+- year: 2024
+  month: Nov
+  international: false
+  type: conference
+  title: "Effective Representation Learning on Hypergraphs with Personalized PageRank"
+  title_kr: "개인화된 페이지랭크를 활용한 하이퍼그래프에서의 효과적인 표현 학습"
+  authors:
+    - Daewon Gwak
+    - Jinhong Jung
+  publisher:
+    venue: "KDBC 2024"
+    link: "https://www.dbsociety.kr/kdbc/kdbc2024/index.html"
+  pdf: "https://drive.google.com/file/d/1bDHaXmvvnU6YSpkRDW8QJpYdP5tqMWVp/view?usp=sharing"
+  bib:
+  code:
+  slide: "https://drive.google.com/file/d/1bBTt_VV5k0aIlwafyyyVZ9Jb4WojMZWa/view?usp=sharing"
+
+- year: 2024
+  month: Nov
+  international: false
+  type: conference
+  title: "Effective Sequential Recommender System with User Sentiment Feedbacks"
+  title_kr: "사용자 감정 피드백을 활용한 효과적인 순차적 추천 시스템"
+  authors:
+    - Junwoo Jung
+    - Cheolhee Jung
+    - Jinhong Jung
+  publisher:
+    venue: "KDBC 2024"
+    link: "https://www.dbsociety.kr/kdbc/kdbc2024/index.html"
+  pdf: "https://drive.google.com/file/d/1bLUseW1wTQemw3olimfhfp7ReaRU83A_/view?usp=sharing"
+  bib:
+  code:
+  slide: "https://drive.google.com/file/d/1bG6sronZAmup6xcSf9EUl9FwvGX18gOv/view?usp=sharing"
+
 - year: 2025 (to appear)
   month:
   international: true
