@@ -6,7 +6,7 @@ title: ""
 ## Recruitment Plan of DMLAB
 
 <p style='text-align: right'>
-Last updated: Nov 28, 2023 <br/>
+Last updated: Nov 7, 2024 <br/>
 Author: Jinhong Jung (정진홍)
 </p>
 
@@ -21,13 +21,6 @@ Author: Jinhong Jung (정진홍)
   * 모집 완료
 * **모집 기간**:
   * 모집 완료
-* **학생 지원 사항**
-  - 연구지원비
-  - 연구 성과급 (연구/과제 성과에 따라)
-  - 교육 및 연구 장비 지원
-  - 국내외 학회 참석 지원
-* **모집 절차**
-  - <strike>관심이 있는 학생은 link를 클릭해서 신청해주세요. </strike>
 
 ### Graduate Program
 
@@ -42,24 +35,6 @@ Author: Jinhong Jung (정진홍)
   - 국내외 학회 참석 지원
 * **모집 절차**
   - 관심이 있는 학생은 jinhong@ssu.ac.kr로 지원 의사를 메일로 보내주시면 추후 상담을 통해 결정됩니다.
-
-<!--
-* [Undergraduate Research Internship Program](#undergraduate-research-internship-program)
-#### Table of organization
-
-|                   | Undergraduate Research <br />Internship Program | Master<br />Program | Doctorial<br />Program |
-| :---------------: | :---------------------------------------------: | :-----------------: | :--------------------: |
-| # of vacant seats |                        4                        |          2          |           0            |
-
-
-#### How to apply
-
-* **Undergraduate Research Internship Program**:
-  * <s>[[link]]를 통해 내용을 작성한 뒤 제출해주세요.</s> 지원자가 많아서 당분간 link를 닫습니다.
-  * 최종 활동 여부는 인터뷰 후에 결정됩니다.
-* **Graduate Programs (Master/Ph.D.)**: 아래 내용을 DSLAB의 지도교수 이메일 (jinhongjung@jbnu.ac.kr)로 보내주시면 됩니다.
-  * Full Curriculum Vitae (or resume), and Transcript
--->
 
 ### Research Interests
 
@@ -123,35 +98,3 @@ Author: Jinhong Jung (정진홍)
 
 #### Research paper study
 * 연구실에서 수행하는 연구와 관련해 data mining/machine learning 분야의 최신 학술 대회 논문을 선정하여 정기적인 모임을 통해 토론/스터디를 합니다.
-
-<!--
-#### Undergraduate Research Internship Program
-학부연구생 인턴쉽 프로그램은 machine learning/data mining 관련 과목 스터디에 참여해서 배경지식을 공부하고, 연구실에서 수행하는 연구에 보조 역할로 참여하면서 (이력서에 활용 가능한 수준의) 연구 관련 경험을 쌓는 것을 목표로 합니다.
-
-* **지원**: 인건비 (연구장려금), 교육 및 연구 장비 지원, 국내외 학회 참석 지원
-* **모집대상**: 전북대학교 학부 3~4학년 재학생 및 휴학생 (컴퓨터공학 및 복수/부전공 대상)
-
-
-##### Research participation
-학부연구생 인턴쉽 프로그램은 machine learning/data mining 관련 과목 스터디에 참여해서 배경지식을 공부하고, 연구실에서 수행하는 연구에 보조 역할로 참여하면서 (이력서에 활용 가능한 수준의) 연구 관련 경험을 쌓는 것을 목표로 합니다.
-
-* **지원**: 인건비 (연구장려금), 연구 성과급, 교육 및 연구 장비 (연구실 자리, PC 및 서버 등) 지원
-* **모집대상**: 전북대학교 학부 2~4학년 재학생 및 휴학생 (프로그래밍 교과목 및 자료구조/알고리즘을 수강한 타학과 학생도 지원 가능)
-
-
-
-* 개별적으로 할당된 연구 주제에서 몇몇 논문들을 선택하여 공부하고 논문을 정리/재현 - 논문에서 사용된 알고리즘을 구현/분석해보고 실험을 수행 - 하는 연습을 합니다. 이 과정에서 논문에서 제안된 메소드의 약점들을 분석하여 수행시간이나 정확도 등의 성능을 개선하고 Github 등을 통해 공개하는 것을 목표로 합니다. 주제의 난이도 및 규모에 따라 개인/그룹(2~3인)으로 진행 될 수 있습니다.
-  * 이 과정을 통해 연구 논문 서베이 경험, machine learning/data mining 관련 알고리즘 구현 및 분석 경험, data mining/deep learning  library (e.g., pytorch) 사용 경험, GitHub 공개 저장소를 통한 기여 경험 등을 쌓을 수 있습니다.
-
-##### ETC
-
-* 원할 경우 연구 논문 스터디 (research paper study) 및 학회 또는 저널 논문 작성을 위한 연구에 참여 가능합니다.
-
-
-
-##### ETC
-
-* 원할 경우 연구 학부연구생과 함께 전공 스터디에 참여할 수 있습니다.
-
-
--->
