@@ -2,7 +2,7 @@
   title: "Revisiting LightGCN: Unexpected Inflexibility, Inconsistency, and A Remedy Towards Improved Recommendation"
   speaker: Sunuk Kim
   paper: http://dmlab.kaist.ac.kr/~kijungs/papers/lightgcnppRecSys2024.pdf
-  slide: 
+  slide: https://drive.google.com/file/d/13Ncchem8xKemvlkPhrSh4IhLBUUfL5Bx/view?usp=drive_link
 
 - date: Nov 25, 2024
   title: "Multi-Behavior Collaborative Filtering with Partial Order Graph Convolutional Networks"
