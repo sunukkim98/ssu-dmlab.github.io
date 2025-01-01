@@ -1,4 +1,10 @@
 - date: Dec 02, 2024
+  title: "BePI: Fast and Memory-Efficient Method for Billion-Scale Random Walk with Restart"
+  speaker: Jinhong Jung
+  paper: "https://jinhongjung.github.io/assets/resources/papers/bepiSIGMOD17.pdf"
+  slide: "https://drive.google.com/file/d/1yiHK9zhYl9kcJ2WqcKUkLpdC6M0W6kuD/view?usp=sharing"
+
+- date: Dec 02, 2024
   title: "Revisiting LightGCN: Unexpected Inflexibility, Inconsistency, and A Remedy Towards Improved Recommendation"
   speaker: Sunuk Kim
   paper: http://dmlab.kaist.ac.kr/~kijungs/papers/lightgcnppRecSys2024.pdf
