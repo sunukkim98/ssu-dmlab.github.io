@@ -1,4 +1,23 @@
 - year: 2024
+  month: Dec
+  international: false
+  type: conference
+  title: "Signed Bipartite Graph Neural Network using Personalized Propagation"
+  title_kr: "개인화된 전파를 활용한 부호화된 이분 그래프 신경망"
+  authors:
+    - Gyeong-Min Gu
+    - Minseo Jeon
+    - Hyun-Je Song
+    - Jinhong Jung
+  publisher:
+    venue: "KSC 2024"
+    link: "https://www.kiise.or.kr/conference/KSC/2024/"
+  pdf: "https://drive.google.com/file/d/1pkssl3JsDZsDC5wS65z7rPlGPHR34E6G/view?usp=sharing"
+  bib:
+  code:
+  slide: "https://drive.google.com/file/d/1-zimBr9ahBnqDkTDtjy4QfmQGwWJVUuy/view?usp=sharing"
+
+- year: 2024
   month: Nov
   international: false
   type: conference

@@ -1,3 +1,10 @@
+- date: Dec 19, 2024
+  content: "Gyeongmin and Minseo won Best Paper Award at <a href='https://www.kiise.or.kr/conference/KSC/2024/' target='_blank'>KSC 2024</a>"
+  icon: "fas fa-award"
+  keyword: "Award"
+  button_color: "info"
+  link: "https://drive.google.com/file/d/10-HbP7UMyT9ANIhvUNjM9lWyD8B_rYuL/view?usp=sharing"
+
 - date: Nov 1, 2024
   content: "Junwoo and Cheolhee won Best Paper Award (Silver) at <a href='https://www.dbsociety.kr/kdbc/kdbc2024/index.html' target='_blank'>KDBC 2024</a>"
   icon: "fas fa-award"
@@ -6,8 +13,7 @@
   link: "https://drive.google.com/file/d/1FLmDb8DAMXBCta5dC47nHsl9oiJD5HKC/view?usp=sharing"
 
 - date: Oct 17, 2024
-  content: "Daewon, Jaehyun, and Jongyoon won Encouragement Award at <a href='https://fashion-how.org/
-' target='_blank'>2024 ETRI Self-Improving AI Competition</a>"
+  content: "Daewon, Jaehyun, and Jongyoon won Encouragement Award at <a href='https://fashion-how.org/' target='_blank'>2024 ETRI Self-Improving AI Competition</a>"
   icon: "fas fa-award"
   keyword: "Award"
   button_color: "info"
