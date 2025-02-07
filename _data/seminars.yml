@@ -1,125 +1,228 @@
-- date: Feb 6, 2025
-  title: "Personalized Denoising Implicit Feedback for Robust Recommender System"
-  speaker: Minseo Jeon
-  paper: "https://arxiv.org/abs/2502.00348"
-  slide: "https://drive.google.com/file/d/1RikcLFJ6Yyvk8d7w462cqtcuiJSQmvXy/view?usp=share_link"
-
-- date: Jan 23, 2025
-  title: "Disentangled Graph Collaborative Filtering"
-  speaker: Sunuk Kim
-  paper: "https://arxiv.org/pdf/2007.01764"
-  slide: "https://drive.google.com/file/d/1JqVZLDb9PPuOrfudXwyZfVN-1Ydy689a/view?usp=drive_link"
-
-- date: Jan 16, 2025
-  title: "Combinatorial Characterizations and Impossibilities for Higher-order Homophily"
-  speaker: Daewon Gwak
-  paper: "https://arxiv.org/pdf/2006.11468"
-  slide: "https://drive.google.com/file/d/1m8oeavwlvSEbU1DEg2y1hyC3kIWbPtRY/view?usp=drive_link"
-  
-- date: Jan 09, 2025
-  title: "Towards Unified Multi-Modal Personalization: Large Vision-Language Models for Generative Recommendation and Beyond"
-  speaker: Junwoo Jung
-  paper: "https://arxiv.org/abs/2403.10667"
-  slide: "https://drive.google.com/file/d/1CRyeHmkUxn5PUiCW2-tkr_mealdDkhrS/view?usp=drive_link"
-
-- date: Jan 02, 2025
-  title: "BePI: Fast and Memory-Efficient Method for Billion-Scale Random Walk with Restart"
-  speaker: Jinhong Jung
-  paper: "https://jinhongjung.github.io/assets/resources/papers/bepiSIGMOD17.pdf"
-  slide: "https://drive.google.com/file/d/1yiHK9zhYl9kcJ2WqcKUkLpdC6M0W6kuD/view?usp=sharing"
-
-- date: Dec 02, 2024
-  title: "Revisiting LightGCN: Unexpected Inflexibility, Inconsistency, and A Remedy Towards Improved Recommendation"
-  speaker: Sunuk Kim
-  paper: http://dmlab.kaist.ac.kr/~kijungs/papers/lightgcnppRecSys2024.pdf
-  slide: https://drive.google.com/file/d/13Ncchem8xKemvlkPhrSh4IhLBUUfL5Bx/view?usp=drive_link
-
-- date: Nov 25, 2024
-  title: "Multi-Behavior Collaborative Filtering with Partial Order Graph Convolutional Networks"
-  speaker: Jiseung Hyun
-  paper: https://arxiv.org/abs/2402.07659
-  slide: https://drive.google.com/file/d/1tOTT2wacpb0T_xD1c7Bcin5rIV3yk4Vw/view?usp=drive_link
-
-- date: Nov 11, 2024
-  title: "RecExplainer: Aligning Large Language Models for Explaining Recommendation Models"
-  speaker: Seokhyeon Cho
-  paper: https://arxiv.org/abs/2311.10947
-  slide: https://drive.google.com/file/d/1NQj5W3DnDY9_DpeEKXf9qCYS9q_3MEuR/view?usp=drive_link
-
-- date: Nov 04, 2024
-  title: "Improving Multi-modal Recommender Systems by Denoising and Aligning Multi-modal Content and User Feedback"
-  speaker: Junwoo Jung
-  paper: https://arxiv.org/abs/2406.12501
-  slide: https://drive.google.com/file/d/1My1EWkEjQDo-zfltzALqHzFllPxZEc-F/view?usp=drive_link
-
-- date: Oct 14, 2024
-  title: "Self-Guided Learning to Denoise for Robust Recommendation"
-  speaker: Minseo Jeon
-  paper: https://arxiv.org/pdf/2204.06832
-  slide: https://drive.google.com/file/d/1FdwrQFs6hdlX4jB_dFEjEqlSUk3XAKCg/view?usp=share_link
-
-- date: Oct 7, 2024
-  title: "MuLe: Multi-Grained Graph Learning for Multi-Behavior Recommendation"
-  speaker: Geonwoo Go
-  paper: https://drive.google.com/file/d/1bJjydUt2nMb5ojgFa2uHDkZ8sYJ1uqnx/view?usp=drive_link
-  slide: https://drive.google.com/file/d/1I0natehK7aTpb2MEhenerO29u8D4xdgl/view?usp=drive_link
-
-- date: Sep 30, 2024
-  title: "Hypergraph Neural Networks"
-  speaker: Daewon Gwak
-  paper: https://arxiv.org/pdf/1809.09401
-  slide: https://drive.google.com/file/d/1W7CuB4F7cd0YaM0k_2ptgdqeRjr3rqDo/view?usp=drive_link
-
-- date: Summer, 2024
-  title: "Lab Study on NLP"
-  speaker: Lab Members
-  paper:
-  slide:
-
-- date: Jun 20, 2024
-  title: "Dvine : Directed Network Embedding with virtual Negative Edges"
-  speaker: Minseo Jeon
-  paper: http://dmlab.kaist.ac.kr/~kijungs/papers/divineWSDM2022.pdf
-  slide: https://drive.google.com/file/d/1WmrHI-Us7FLYHOqGgtkSc1zELCFND156/view?usp=share_link
-
-- date: May 30, 2024
-  title: "Predict Then Propagate: Graph Neural Networks Meet Personalized Pagerank"
-  speaker: Daewon Gwak
-  paper: https://arxiv.org/abs/1810.05997
-  slide: https://drive.google.com/file/d/1Fk0YwsOTuogBjkGQAOnAWH5kA5-GD4_B/view?usp=drive_link
-
-- date: May 23, 2024
-  title: "LightGCL: Simple Yet Effective Graph Contrastive Learning For Recommendation"
-  speaker: Cheolhee Jung
-  paper: https://arxiv.org/pdf/2302.08191
-  slide: https://drive.google.com/file/d/1Do7fnmJ5sKotrzNSAsnu18FG99iClwqq/view?usp=drive_link
-
-- date: May 09, 2024
-  title: Recommender Systems with Generative Retrieval
-  speaker: Junwoo Jung
-  paper: https://arxiv.org/abs/2305.05065
-  slide: https://drive.google.com/file/d/1-9IguiQb1T_LVfH9W3JPaIaLWDYZ6pB-/view?usp=drive_link
-
-- date: May 02, 2024
-  title: Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks
-  speaker: Seokhyeon Cho
-  paper: https://arxiv.org/abs/2005.11401
-  slide: https://drive.google.com/file/d/1xhZvJIGT5liZ31tmIiEeUTeGKyxO4xB2/view?usp=drive_link
-
-- date: Apr 17, 2024
-  title: Automated Self Supervised Learning for Recommendation
-  speaker: Jongyoon Choi
-  paper: https://arxiv.org/pdf/2303.07797.pdf
-  slide: https://drive.google.com/file/d/1Ekt_N0hqYZuN7qTkw1t7fMHGtPbko8ne/view?usp=drive_link
-
-- date: Apr 05, 2024
-  title: Large Language Models with Graph Augmentation for Recommendation
-  speaker: Geonwoo Ko
-  paper: https://arxiv.org/abs/2311.00423
-  slide: https://drive.google.com/file/d/1ek_z6pOj7djL4TGGQ0nKgxnFAWpzeK6H/view?usp=drive_link
-
-- date: Mar 28, 2024
-  title: Time-aware Random Walk Diffusion to Improve Dynamic Graph Learning
-  speaker: Jinhong Jung
-  paper: https://ojs.aaai.org/index.php/AAAI/article/view/26021
-  slide: https://shorturl.at/krzBC
+- Date: '2025-02-20T00:00:00'
+  Speaker: Jaehyun Park
+  Title: ''
+  Venue: ''
+  Paper:
+    Text: link
+    URL: ''
+  Slide:
+    Text: link
+    URL: ''
+- Date: '2025-02-13T00:00:00'
+  Speaker: Jiseung Hyun
+  Title: 'Large Language Models meet Collaborative Filtering: An Efficient All-round
+    LLM-based Recommender System'
+  Venue: KDD-24
+  Paper:
+    Text: link
+    URL: ''
+  Slide:
+    Text: link
+    URL: ''
+- Date: '2025-02-06T00:00:00'
+  Speaker: Minseo Jeon
+  Title: Personalized Denoising Implicit Feedback for Robust Recommender System
+  Venue: WWW-25
+  Paper:
+    Text: link
+    URL: https://arxiv.org/abs/2502.00348
+  Slide:
+    Text: link
+    URL: https://drive.google.com/file/d/1RikcLFJ6Yyvk8d7w462cqtcuiJSQmvXy/view?usp=share_link
+- Date: '2025-01-23T00:00:00'
+  Speaker: Sunuk Kim
+  Title: Disentangled Graph Collaborative Filtering
+  Venue: SIGIR-20
+  Paper:
+    Text: link
+    URL: https://arxiv.org/pdf/2007.01764
+  Slide:
+    Text: link
+    URL: https://drive.google.com/file/d/1JqVZLDb9PPuOrfudXwyZfVN-1Ydy689a/view?usp=drive_link
+- Date: '2025-01-16T00:00:00'
+  Speaker: Daewon Gwak
+  Title: 'Beyond Homophily in Graph Neural Networks: Current Limitations and Effective
+    Designs'
+  Venue: NIPS-20
+  Paper:
+    Text: link
+    URL: https://arxiv.org/pdf/2006.11468
+  Slide:
+    Text: link
+    URL: https://drive.google.com/file/d/1m8oeavwlvSEbU1DEg2y1hyC3kIWbPtRY/view?usp=drive_link
+- Date: '2025-01-09T00:00:00'
+  Speaker: Junwoo Jung
+  Title: 'Towards Unified Multi-Modal Personalization: Large Vision-Language Models
+    for Generative Recommendation and Beyond'
+  Venue: ICLR-24
+  Paper:
+    Text: link
+    URL: https://arxiv.org/abs/2403.10667v1
+  Slide:
+    Text: link
+    URL: https://drive.google.com/file/d/1CRyeHmkUxn5PUiCW2-tkr_mealdDkhrS/view?usp=drive_link
+- Date: '2025-01-02T00:00:00'
+  Speaker: Jinhong Jung
+  Title: 'BePI: Fast and Memory-Efficient Method for Billion-Scale Random Walk with
+    Restart'
+  Venue: SIGMOD-17
+  Paper:
+    Text: link
+    URL: https://datalab.snu.ac.kr/bepi/resources/bepiSIGMOD2017.pdf
+  Slide:
+    Text: link
+    URL: https://drive.google.com/file/d/1yiHK9zhYl9kcJ2WqcKUkLpdC6M0W6kuD/view?usp=drive_link
+- Date: '2024-12-02T00:00:00'
+  Speaker: Sunuk Kim
+  Title: 'Revisiting LightGCN: Unexpected Inflexibility, Inconsistency, and A Remedy
+    Towards Improved Recommendation '
+  Venue: ''
+  Paper:
+    Text: link
+    URL: http://dmlab.kaist.ac.kr/~kijungs/papers/lightgcnppRecSys2024.pdf
+  Slide:
+    Text: link
+    URL: ''
+- Date: '2024-11-25T00:00:00'
+  Speaker: Jiseung Hyun
+  Title: Multi-Behavior Collaborative Filtering with Partial Order Graph Convolutional
+    Networks (KDD'24)
+  Venue: ''
+  Paper:
+    Text: link
+    URL: https://arxiv.org/abs/2402.07659
+  Slide:
+    Text: link
+    URL: https://drive.google.com/file/d/13Ncchem8xKemvlkPhrSh4IhLBUUfL5Bx/view?usp=drive_link
+- Date: '2024-11-11T00:00:00'
+  Speaker: Seokhyeon Cho
+  Title: 'RecExplainer: Aligning Large Language Models for Explaining Recommendation
+    Models'
+  Venue: ''
+  Paper:
+    Text: link
+    URL: https://arxiv.org/abs/2311.10947
+  Slide:
+    Text: link
+    URL: ''
+- Date: '2024-11-04T00:00:00'
+  Speaker: Junwoo Jung
+  Title: Improving Multi-modal Recommender Systems by Denoising and Aligning Multi-modal
+    Content and User Feedback
+  Venue: ''
+  Paper:
+    Text: link
+    URL: https://arxiv.org/abs/2406.12501
+  Slide:
+    Text: link
+    URL: https://drive.google.com/file/d/1My1EWkEjQDo-zfltzALqHzFllPxZEc-F/view?usp=drive_link
+- Date: '2024-10-14T00:00:00'
+  Speaker: Minseo Jeon
+  Title: Self-Guided Learning to Denoise for Robust Recommendation
+  Venue: ''
+  Paper:
+    Text: link
+    URL: https://arxiv.org/pdf/2204.06832
+  Slide:
+    Text: link
+    URL: ''
+- Date: '2024-10-07T00:00:00'
+  Speaker: Geonwoo Ko
+  Title: 'MuLe: Multi-Grained Graph Learning for Multi-Behavior Recommendation '
+  Venue: ''
+  Paper:
+    Text: link
+    URL: https://drive.google.com/file/d/1kKD0eDbS2B2BXGsgOoAgo-EgzBr6yncc/view?usp=drive_link
+  Slide:
+    Text: link
+    URL: https://drive.google.com/file/d/1C_K0mV9zbmB0es30MJyB4ezq7DDOKmw8/view?usp=sharing
+- Date: '2024-09-30T00:00:00'
+  Speaker: Daewon Gwak
+  Title: Hypergraph Neural Networks
+  Venue: ''
+  Paper:
+    Text: link
+    URL: https://arxiv.org/pdf/1809.09401
+  Slide:
+    Text: link
+    URL: https://drive.google.com/file/d/1W7CuB4F7cd0YaM0k_2ptgdqeRjr3rqDo/view?usp=drive_link
+- Date: '2024-06-20T00:00:00'
+  Speaker: Minseo Jeon
+  Title: 'Dvine : Directed Network Embedding with virtual Negative Edges'
+  Venue: ''
+  Paper:
+    Text: link
+    URL: https://dl.acm.org/doi/10.1145/3488560.3498470
+  Slide:
+    Text: link
+    URL: https://drive.google.com/file/d/1WmrHI-Us7FLYHOqGgtkSc1zELCFND156/view?usp=share_link
+- Date: '2024-05-30T00:00:00'
+  Speaker: Daewon Gwak
+  Title: 'Predict Then Propagate: Graph Neural Networks Meet Personalized Pagerank'
+  Venue: ''
+  Paper:
+    Text: link
+    URL: https://arxiv.org/abs/1810.05997
+  Slide:
+    Text: link
+    URL: https://drive.google.com/file/d/1Fk0YwsOTuogBjkGQAOnAWH5kA5-GD4_B/view?usp=drive_link
+- Date: '2024-05-23T00:00:00'
+  Speaker: Cheolhee Jeong
+  Title: 'LightGCL: Simple yet effective graph contrastive learning for recommendation'
+  Venue: ''
+  Paper:
+    Text: link
+    URL: https://arxiv.org/pdf/2302.08191
+  Slide:
+    Text: link
+    URL: https://drive.google.com/file/d/1Do7fnmJ5sKotrzNSAsnu18FG99iClwqq/view?usp=drive_link
+- Date: '2024-05-09T00:00:00'
+  Speaker: Junwoo Jung
+  Title: Recommender Systems with Generative Retrieval
+  Venue: ''
+  Paper:
+    Text: link
+    URL: https://arxiv.org/abs/2305.05065
+  Slide:
+    Text: link
+    URL: https://drive.google.com/file/d/1-9IguiQb1T_LVfH9W3JPaIaLWDYZ6pB-/view?usp=drive_link
+- Date: '2024-05-02T00:00:00'
+  Speaker: Seokhyeon Cho
+  Title: Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks
+  Venue: ''
+  Paper:
+    Text: link
+    URL: https://arxiv.org/abs/2005.11401
+  Slide:
+    Text: link
+    URL: https://drive.google.com/file/d/1xhZvJIGT5liZ31tmIiEeUTeGKyxO4xB2/view?usp=drive_link
+- Date: '2024-04-19T00:00:00'
+  Speaker: Jongyoon Choi
+  Title: Automated Self Supervised Learning for Recommendation
+  Venue: ''
+  Paper:
+    Text: link
+    URL: https://arxiv.org/pdf/2303.07797.pdf
+  Slide:
+    Text: link
+    URL: https://drive.google.com/file/d/1Ekt_N0hqYZuN7qTkw1t7fMHGtPbko8ne/view?usp=drive_link
+- Date: '2024-04-04T00:00:00'
+  Speaker: Geonwoo Ko
+  Title: 'LLMRec: Large Language Models with Graph Augmentation for Recommendation'
+  Venue: ''
+  Paper:
+    Text: link
+    URL: https://arxiv.org/abs/2311.00423
+  Slide:
+    Text: link
+    URL: https://drive.google.com/file/d/1ek_z6pOj7djL4TGGQ0nKgxnFAWpzeK6H/view?usp=drive_link
+- Date: '2024-03-28T00:00:00'
+  Speaker: Jinhong Jung
+  Title: Time-aware Random Walk Diffusion to Improve Dynamic Graph Learning
+  Venue: ''
+  Paper:
+    Text: link
+    URL: https://drive.google.com/file/d/1t-L6SbqDcegNogbmU8vcSGIEqe5MwmXe/view?usp=drive_link
+  Slide:
+    Text: link
+    URL: https://drive.google.com/file/d/1t-L6SbqDcegNogbmU8vcSGIEqe5MwmXe/view?usp=drive_link
