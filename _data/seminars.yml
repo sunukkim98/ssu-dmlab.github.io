@@ -1,3 +1,9 @@
+- date: Feb 6, 2025
+  title: "Personalized Denoising Implicit Feedback for Robust Recommender System"
+  speaker: Minseo Jeon
+  paper: "https://arxiv.org/abs/2502.00348"
+  slide: "https://drive.google.com/file/d/1RikcLFJ6Yyvk8d7w462cqtcuiJSQmvXy/view?usp=share_link"
+
 - date: Jan 23, 2025
   title: "Disentangled Graph Collaborative Filtering"
   speaker: Sunuk Kim
