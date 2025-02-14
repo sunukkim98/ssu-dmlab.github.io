@@ -1,7 +1,8 @@
 - Date: '2025-02-20T00:00:00'
   Speaker: Jaehyun Park
-  Title: ''
-  Venue: ''
+  Title: 'CoRAL: Collaborative Retrieval-Augmented Large Language Models Improve Long-tail
+    Recommendation'
+  Venue: KDD-24
   Paper:
     Text: link
     URL: ''
@@ -10,14 +11,15 @@
     URL: ''
 - Date: '2025-02-13T00:00:00'
   Speaker: Jiseung Hyun
-  Title: Large Language Models meet Collaborative Filtering
+  Title: 'Large Language Models meet Collaborative Filtering: An Efficient All-round
+    LLM-based Recommender System'
   Venue: KDD-24
   Paper:
     Text: link
-    URL: ''
+    URL: https://arxiv.org/abs/2404.11343
   Slide:
     Text: link
-    URL: ''
+    URL: https://drive.google.com/file/d/12V_XXVCI1ems59ou1UFHQlZvBC_LQ7ES/view?usp=drive_link
 - Date: '2025-02-06T00:00:00'
   Speaker: Minseo Jeon
   Title: Personalized Denoising Implicit Feedback for Robust Recommender System
