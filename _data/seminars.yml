@@ -5,10 +5,10 @@
   Venue: KDD-24
   Paper:
     Text: link
-    URL: ''
+    URL: https://arxiv.org/abs/2403.06447
   Slide:
     Text: link
-    URL: ''
+    URL: https://drive.google.com/file/d/1bmUojXzZfCnBFD9-2jSKiqK8PpXMO5RQ/view?usp=sharing
 - Date: '2025-02-13T00:00:00'
   Speaker: Jiseung Hyun
   Title: 'Large Language Models meet Collaborative Filtering: An Efficient All-round
