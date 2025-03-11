@@ -70,14 +70,14 @@
     URL: ''
 - Date: '2025-03-10T00:00:00'
   Speaker: Jiseung Hyun
-  Title: ''
-  Venue: ''
+  Title: Content-Based Collaborative Generation for Recommender Systems
+  Venue: CIKM-24
   Paper:
-    Text: ''
-    URL: ''
+    Text: link
+    URL: https://arxiv.org/abs/2403.18480
   Slide:
-    Text: ''
-    URL: ''
+    Text: link
+    URL: https://drive.google.com/file/d/1H4niqu0TpBWvo9LdZtQbFl6c849BUDYh/view?usp=drive_link
 - Date: '2025-02-20T00:00:00'
   Speaker: Jaehyun Park
   Title: 'CoRAL: Collaborative Retrieval-Augmented Large Language Models Improve Long-tail
