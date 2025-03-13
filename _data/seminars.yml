@@ -60,13 +60,14 @@
     URL: ''
 - Date: '2025-03-17T00:00:00'
   Speaker: Sunuk Kim
-  Title: ''
-  Venue: ''
+  Title: 'DisCo: Towards Harmonious Disentanglement and Collaboration between Tabular
+    and Semantic Space for Recommendation'
+  Venue: KDD-24
   Paper:
-    Text: ''
-    URL: ''
+    Text: link
+    URL: https://arxiv.org/abs/2406.00011
   Slide:
-    Text: ''
+    Text: link
     URL: ''
 - Date: '2025-03-10T00:00:00'
   Speaker: Jiseung Hyun
