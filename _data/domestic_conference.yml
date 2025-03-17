@@ -1,0 +1,178 @@
+- Date: '2016-12-01T00:00:00.000Z'
+  Year: 2016
+  Month: 12
+  Days: 21-23
+  Location: 강원도 휘닉스파크
+  Publisher: 한국정보과학회
+  Venue:
+    text: WC
+    url: http://m.kiise.or.kr/conference/wc/43/
+  FullVenue:
+    en: Korea Winter Conference
+    kr: 동계학술발표회
+  Title:
+    en: Improving Accuracy of Recommendation System through Active Recommendation
+    kr: 능동 추천을 통한 추천 시스템 성능 향상
+  Type:
+  - POSTER
+  Pages: 591-593
+  NumAuthors: 3
+  Authors:
+  - Minkyung Lee
+  - Jinhong Jung
+  - U Kang
+  First:
+  - Minkyung Lee
+  Corresp:
+  - U Kang
+  DOI:
+    text: link
+    url: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07115959
+  Paper:
+    text: link
+    url: https://drive.google.com/file/d/1IBECDrnD0noEicSrSn0J6KClGcJCrFxp/view?usp=drive_link
+  Code:
+    text: link
+    url: ''
+  Slide:
+    text: link
+    url: ''
+  Poster:
+    text: link
+    url: ''
+  Notes: []
+- Date: '2024-11-01T00:00:00.000Z'
+  Year: 2024
+  Month: 11
+  Days: '2025-01-01T15:00:00.000Z'
+  Location: 제주도 휘닉스 아일랜드
+  Publisher: 한국정보과학회 데이터소사이어티
+  Venue:
+    text: KDBC
+    url: https://www.dbsociety.kr/kdbc/kdbc2024/index.html
+  FullVenue:
+    en: Korea Database Conference
+    kr: 한국데이터베이스학술대회
+  Title:
+    en: Effective Sequential Recommender System with User Sentiment Feedbacks
+    kr: 사용자 감정 피드백을 활용한 효과적인 순차적 추천 시스템
+  Type:
+  - ORAL
+  Pages: ''
+  NumAuthors: 3
+  Authors:
+  - Junwoo Jung
+  - Cheolhee Jung
+  - Jinhong Jung
+  First:
+  - Junwoo Jung
+  - Cheolhee Jung
+  Corresp:
+  - Jinhong Jung
+  DOI:
+    text: link
+    url: https://www.dbsociety.kr/kdbc/kdbc2024/proceedings.html
+  Paper:
+    text: link
+    url: https://drive.google.com/open?id=1bLUseW1wTQemw3olimfhfp7ReaRU83A_&usp=drive_fs
+  Code:
+    text: link
+    url: https://drive.google.com/file/d/1IEVN5j-tVIbuPzF5MJdG6O5AI5DMFeRT/view?usp=drive_link
+  Slide:
+    text: link
+    url: https://drive.google.com/open?id=1bG6sronZAmup6xcSf9EUl9FwvGX18gOv&usp=drive_fs
+  Poster:
+    text: link
+    url: ''
+  Notes:
+  - note: Received the Best Paper Award (Silver Prize)
+    url: https://drive.google.com/file/d/1FLmDb8DAMXBCta5dC47nHsl9oiJD5HKC/view?usp=drive_link
+- Date: '2024-11-01T00:00:00.000Z'
+  Year: 2024
+  Month: 11
+  Days: '2025-01-01T15:00:00.000Z'
+  Location: 제주도 휘닉스 아일랜드
+  Publisher: 한국정보과학회 데이터소사이어티
+  Venue:
+    text: KDBC
+    url: https://www.dbsociety.kr/kdbc/kdbc2024/index.html
+  FullVenue:
+    en: Korea Database Conference
+    kr: 한국데이터베이스학술대회
+  Title:
+    en: Effective Representation Learning on Hypergraphs with Personalized PageRank
+    kr: 개인화된 페이지랭크를 활용한 하이퍼그래프에서의 효과적인 표현 학습
+  Type:
+  - ORAL
+  Pages: ''
+  NumAuthors: 2
+  Authors:
+  - Daewon Gwak
+  - Jinhong Jung
+  First:
+  - Daewon Gwak
+  Corresp:
+  - Jinhong Jung
+  DOI:
+    text: link
+    url: https://www.dbsociety.kr/kdbc/kdbc2024/proceedings.html
+  Paper:
+    text: link
+    url: https://drive.google.com/file/d/1bDHaXmvvnU6YSpkRDW8QJpYdP5tqMWVp/view?usp=drive_link
+  Code:
+    text: link
+    url: https://drive.google.com/file/d/1NdM7lEYiCvSB8UfnuKI40SiyWN0l9MfO/view?usp=drive_link
+  Slide:
+    text: link
+    url: https://drive.google.com/file/d/1bBTt_VV5k0aIlwafyyyVZ9Jb4WojMZWa/view?usp=drive_link
+  Poster:
+    text: link
+    url: ''
+  Notes: []
+- Date: '2024-12-01T00:00:00.000Z'
+  Year: 2024
+  Month: 12
+  Days: 18-20
+  Location: 여수 엑스포 컨벤션센터
+  Publisher: 한국정보과학회
+  Venue:
+    text: KSC
+    url: https://www.kiise.or.kr/conference/KSC/2024/
+  FullVenue:
+    en: Korea Software Congress
+    kr: 한국소프트웨어종합학술대회
+  Title:
+    en: Signed Bipartite Graph Neural Network using Personalized Propagation
+    kr: 개인화된 전파를 활용한 부호화된 이분 그래프 신경망
+  Type:
+  - ORAL
+  Pages: ''
+  NumAuthors: 4
+  Authors:
+  - Gyeong-Min Gu
+  - Minseo Jeon
+  - Hyun-Je Song
+  - Jinhong Jung
+  First:
+  - Gyeong-Min Gu
+  Corresp:
+  - Hyun-Je Song
+  - Jinhong Jung
+  DOI:
+    text: link
+    url: ''
+  Paper:
+    text: link
+    url: https://drive.google.com/file/d/1pkssl3JsDZsDC5wS65z7rPlGPHR34E6G/view?usp=drive_link
+  Code:
+    text: link
+    url: https://drive.google.com/file/d/1uN724kYxqkx1ggSyzCEBffLMC9IdUa1t/view?usp=drive_link
+  Slide:
+    text: link
+    url: https://drive.google.com/file/d/1-zimBr9ahBnqDkTDtjy4QfmQGwWJVUuy/view?usp=drive_link
+  Poster:
+    text: link
+    url: ''
+  Notes:
+  - note: Received the Best Paper Award
+    url: https://drive.google.com/file/d/10-HbP7UMyT9ANIhvUNjM9lWyD8B_rYuL/view?usp=drive_link

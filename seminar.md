@@ -24,10 +24,10 @@ In this seminar, we discuss diverse research topics such as data mining, graph m
 |:---:|:---:|:---:|:---:|
     {% for seminar in group.items -%}
         {% assign target_date_seconds = seminar.Date | date: '%s' | plus: 0 -%}
-        {% if target_date_seconds < now_in_seconds -%}
-|{{seminar.Date | date: "%Y-%m-%d"}}|[{{seminar.Title}}]({{seminar.Paper.URL}})|{{seminar.Speaker}}| [[link]({{seminar.Slide.URL}})]|
-        {% elsif target_date_seconds <= one_week_from_now -%}
-|{{seminar.Date | date: "%Y-%m-%d"}}|`Upcoming` [{{seminar.Title}}]({{seminar.Paper.URL}})|{{seminar.Speaker}}| [[link]({{seminar.Slide.URL}})]|
+        {% if target_date_seconds < now_in_seconds and seminar.Title != "" -%}
+|{{seminar.Date | date: "%y/%m/%d"}}|[{{seminar.Title}}]({{seminar.Paper.URL}})|{{seminar.Speaker}}| [[link]({{seminar.Slide.URL}})]|
+        {% elsif target_date_seconds <= one_week_from_now and seminar.Title != "" -%}
+|{{seminar.Date | date: "%y/%m/%d"}}|`Upcoming`<br> [{{seminar.Title}}]({{seminar.Paper.URL}})|{{seminar.Speaker}}| [[link]({{seminar.Slide.URL}})]|
         {% endif -%}
     {% endfor -%}
 {% endfor %}
