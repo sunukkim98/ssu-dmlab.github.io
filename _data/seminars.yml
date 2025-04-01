@@ -50,13 +50,14 @@
     URL: ''
 - Date: '2025-04-03T00:00:00'
   Speaker: Jaehyun Park
-  Title: ''
-  Venue: ''
+  Title: Collaborative Retrieval for Large Language Model-based Conversational Recommender
+    Systems
+  Venue: WWW-25
   Paper:
-    Text: ''
-    URL: ''
+    Text: link
+    URL: https://arxiv.org/abs/2502.14137
   Slide:
-    Text: ''
+    Text: link
     URL: ''
 - Date: '2025-03-20T00:00:00'
   Speaker: Sunuk Kim
