@@ -40,13 +40,13 @@
     URL: ''
 - Date: '2025-04-10T00:00:00'
   Speaker: Daewon Gwak
-  Title: ''
-  Venue: ''
+  Title: Towards Deeper Graph Neural Networks
+  Venue: KDD-20
   Paper:
-    Text: ''
-    URL: ''
+    Text: link
+    URL: https://arxiv.org/pdf/2007.09296
   Slide:
-    Text: ''
+    Text: link
     URL: ''
 - Date: '2025-04-03T00:00:00'
   Speaker: Jaehyun Park
