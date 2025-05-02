@@ -30,14 +30,15 @@
     URL: ''
 - Date: '2025-04-17T00:00:00'
   Speaker: Minseo Jeon
-  Title: ''
-  Venue: ''
+  Title: "Are Graph Augmentation Necessary?\vSimple Graph Contrastive Learning \v\
+    for Recommendation"
+  Venue: SIGIIR-22
   Paper:
-    Text: ''
-    URL: ''
+    Text: link
+    URL: https://arxiv.org/abs/2112.08679
   Slide:
-    Text: ''
-    URL: ''
+    Text: link
+    URL: https://drive.google.com/file/d/1qFvNUcAgV4j0aXlYOkTE56cIr3-2Fs33/view?usp=drive_link
 - Date: '2025-04-10T00:00:00'
   Speaker: Daewon Gwak
   Title: Towards Deeper Graph Neural Networks
@@ -47,7 +48,7 @@
     URL: https://arxiv.org/pdf/2007.09296
   Slide:
     Text: link
-    URL: ''
+    URL: https://drive.google.com/file/d/18Mz7tmYsYzAjgMCv8ridQ98Ip39eU-Zc/view?usp=drive_link
 - Date: '2025-04-03T00:00:00'
   Speaker: Jaehyun Park
   Title: 'G-Refer: Graph Retrieval-Augmented Large Language Model for Explainable
