@@ -50,9 +50,8 @@
     URL: ''
 - Date: '2025-05-15T00:00:00'
   Speaker: Daewon Gwak
-  Title: 'VilLain: Self-Supervised Learning on Homogeneous Hypergraphs
-
-    without Features via Virtual Label Propagation'
+  Title: 'VilLain: Self-Supervised Learning on Homogeneous Hypergraphs without Features
+    via Virtual Label Propagation'
   Venue: WWW-24
   Paper:
     Text: link
@@ -62,8 +61,8 @@
     URL: ''
 - Date: '2025-05-08T00:00:00'
   Speaker: Junwoo Jung
-  Title: "AlphaFuse: \vLearn ID Embeddings for Sequential Recommendation in Null Space\
-    \ of Language Embeddings"
+  Title: 'AlphaFuse: Learn ID Embeddings for Sequential Recommendation in Null Space
+    of Language Embeddings'
   Venue: SIGIR-25
   Paper:
     Text: link
@@ -73,8 +72,7 @@
     URL: https://drive.google.com/file/d/1Pbo7VS-Ubll_wIkX_jJj61EsHXEgB0od/view?usp=drive_link
 - Date: '2025-05-01T00:00:00'
   Speaker: Minseo Jeon
-  Title: "Are Graph Augmentation Necessary?\vSimple Graph Contrastive Learning \v\
-    for Recommendation"
+  Title: Are Graph Augmentation Necessary? Simple Graph Contrastive Learning for Recommendation
   Venue: SIGIIR-22
   Paper:
     Text: link
