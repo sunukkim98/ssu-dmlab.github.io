@@ -1,4 +1,3 @@
-
 - name:
     en: "Jinhong Jung"
     ko: "정진홍"
@@ -8,11 +7,10 @@
   email: "jinhongjung (AT) jbnu.ac.kr"
   link: "https://jinhongjung.github.io/"
 
-
 - name:
     en: "Geonwoo Ko"
     ko: "고건우"
-  type: grad
+  type: alumni
   img: "geonwooko.jpg"
   gender: man
   affiliation:
@@ -32,7 +30,7 @@
 - name:
     en: "Gyeongmin Gu"
     ko: "구경민"
-  type: grad
+  type: alumni
   img: "Gyeongmin_Gu.jpg"
   gender: man
   affiliation:
@@ -46,7 +44,7 @@
   img: "min-seo-jeon.jpeg"
   gender: man
   affiliation:
-  email: "raichal2000@jbnu.ac.kr"
+  email: "minseojeon@soongsil.ac.kr"
   link:
 
 - name:
@@ -62,7 +60,7 @@
 - name:
     en: "Seokhyeon Cho"
     ko: "조석현"
-  type: undergrad
+  type: alumni
   img:
   gender: man
   affiliation:
@@ -72,11 +70,11 @@
 - name:
     en: "Daewon Gwak"
     ko: "곽대원"
-  type: undergrad
+  type: grad
   img:
   gender: man
   affiliation:
-  email:
+  email: "daewon1@soongsil.ac.kr"
   link:
 
 - name:
@@ -92,7 +90,7 @@
 - name:
     en: "Cheolhee Jeong"
     ko: "정철희"
-  type: undergrad
+  type: alumni
   img:
   gender: man
   affiliation:
@@ -102,11 +100,11 @@
 - name:
     en: "Junwoo Jung"
     ko: "정준우"
-  type: undergrad
+  type: grad
   img:
   gender: man
   affiliation:
-  email:
+  email: "lyrical309@soongsil.ac.kr"
   link:
 
 - name:
@@ -116,17 +114,17 @@
   img:
   gender: man
   affiliation:
-  email:
+  email: "hjis0405@soongsil.ac.kr"
   link:
 
 - name:
     en: "Jaehyun Park"
     ko: "박재현"
-  type: undergrad
+  type: grad
   img:
   gender: man
   affiliation:
-  email:
+  email: "pjaehyun@soongsil.ac.kr"
   link:
 
 - name:
@@ -138,7 +136,6 @@
   affiliation:
   email: "skwjd1356@jbnu.ac.kr"
   link: "https://www.notion.so/Najeong-Chae-a865ae30e4684997bf3b6645796cd26c?pvs=4"
-
 
 - name:
     en: "Keonwoo Ro"
@@ -168,4 +165,24 @@
   gender: man
   affiliation:
   email: "sunukkim@soongsil.ac.kr"
-  link: "https://raiutc.github.io/"
+  link: 
+  
+- name:
+    en: "Hanvit Lee"
+    ko: "이한빛"
+  type: undergrad
+  img: 
+  gender: man
+  affiliation:
+  email: "hanvit@soongsil.ac.kr"
+  link: 
+
+- name:
+    en: "Minseo Kim"
+    ko: "김민서"
+  type: alumni
+  img: 
+  gender: man
+  affiliation:
+  email: "superider00@soongsil.ac.kr"
+  link: 
