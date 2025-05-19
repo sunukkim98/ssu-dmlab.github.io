@@ -71,7 +71,7 @@
     en: "Daewon Gwak"
     ko: "곽대원"
   type: grad
-  img:
+  img: "daewongwak.jpg"
   gender: man
   affiliation:
   email: "daewon1@soongsil.ac.kr"
@@ -121,7 +121,7 @@
     en: "Jaehyun Park"
     ko: "박재현"
   type: grad
-  img:
+  img: "jaehyunpark.jpeg"
   gender: man
   affiliation:
   email: "pjaehyun@soongsil.ac.kr"
