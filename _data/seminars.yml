@@ -40,13 +40,13 @@
     URL: ''
 - Date: '2025-05-22T00:00:00'
   Speaker: Sunuk Kim
-  Title: ''
-  Venue: ''
+  Title: FORWARD LEARNING OF GRAPH NEURAL NETWORKS
+  Venue: ICLR-24
   Paper:
-    Text: ''
-    URL: ''
+    Text: link
+    URL: https://arxiv.org/pdf/2403.11004
   Slide:
-    Text: ''
+    Text: link
     URL: ''
 - Date: '2025-05-15T00:00:00'
   Speaker: Daewon Gwak
@@ -58,7 +58,7 @@
     URL: https://dl.acm.org/doi/pdf/10.1145/3589334.3645454
   Slide:
     Text: link
-    URL: ''
+    URL: https://drive.google.com/file/d/1vBcuDVti7xg6Ax39xUn0qHCRMl5iiCuM/view?usp=drive_link
 - Date: '2025-05-08T00:00:00'
   Speaker: Junwoo Jung
   Title: 'AlphaFuse: Learn ID Embeddings for Sequential Recommendation in Null Space
