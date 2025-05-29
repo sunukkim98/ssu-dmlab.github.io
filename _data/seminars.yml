@@ -30,11 +30,12 @@
     URL: ''
 - Date: '2025-05-29T00:00:00'
   Speaker: Junwoo Jung
-  Title: ''
-  Venue: ''
+  Title: Review-driven Personalized Preference Reasoning with Large Language Models
+    for Recommendation
+  Venue: SIGIR-25
   Paper:
-    Text: ''
-    URL: ''
+    Text: link
+    URL: https://arxiv.org/abs/2408.06276
   Slide:
     Text: ''
     URL: ''
