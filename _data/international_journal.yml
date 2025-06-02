@@ -312,7 +312,7 @@
     url: ''
   Notes: []
 - Date: '2023-12-01T00:00:00.000Z'
-  Year: 2023
+  Year: 2024
   Month: 12
   Days: 21
   Publisher: Springer Nature
@@ -360,8 +360,8 @@
   Notes: []
 - Date: '2024-02-01T00:00:00.000Z'
   Year: 2024
-  Month: 2
-  Days: 28
+  Month: 4
+  Days: ''
   Publisher: Elsevier
   Location: Netherlands
   Venue:
@@ -405,7 +405,7 @@
 - Date: '2024-10-01T00:00:00.000Z'
   Year: 2024
   Month: 10
-  Days: 14
+  Days: ''
   Publisher: Springer Nature
   Location: Germany
   Venue:
