@@ -1,3 +1,11 @@
+- date: Jun 12, 2025
+  content: "Our survey on multi-behavior recommendation received the PAKDD Best Survey Paper Award"
+  icon: "fas fa-award"
+  keyword: "Award"
+  button_color: "info"
+  link: ""
+
+
 - date: Jun 3, 2025
   content: "Our work on lightweight signed bipartite GNNs has been accepted at <a href='https://www.sciencedirect.com/journal/neural-networks'> Neural Networks</a>"
   icon: "fas fa-file"
@@ -74,6 +82,13 @@
   icon: "fas fa-file"
   keyword: "Paper"
   button_color: "success"
+  link:
+
+- date: Dec 13, 2023
+  content: "Our work on tensor compression received the IEEE ICDM Best Student Paper Runner-up Award"
+  icon: "fas fa-award"
+  keyword: "Award"
+  button_color: "info"
   link:
 
 - date: Nov 24, 2023
