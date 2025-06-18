@@ -1,3 +1,25 @@
+- date: Jun 3, 2025
+  content: "Our work on lightweight signed bipartite GNNs has been accepted at <a href='https://www.sciencedirect.com/journal/neural-networks'> Neural Networks</a>"
+  icon: "fas fa-file"
+  keyword: "Paper"
+  button_color: "success"
+  link: "/publications"
+
+- date: May 24, 2025
+  content: "Our work on lightweight tensor compression has been accepted at <a href='https://link.springer.com/journal/10115' target='_blank'>KAIS</a>"
+  icon: "fas fa-file"
+  keyword: "Paper"
+  button_color: "success"
+  link: "/publications"
+
+
+- date: Feb 09, 2025
+  content: "Two papers have been accepted at <a href='https://pakdd2025.org/'>PAKDD 2025</a>"
+  icon: "fas fa-file"
+  keyword: "Paper"
+  button_color: "success"
+  link: "/publications"
+
 - date: Dec 19, 2024
   content: "Gyeongmin and Minseo won Best Paper Award at <a href='https://www.kiise.or.kr/conference/KSC/2024/' target='_blank'>KSC 2024</a>"
   icon: "fas fa-award"
