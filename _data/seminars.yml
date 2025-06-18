@@ -20,13 +20,13 @@
     URL: ''
 - Date: '2025-06-19T00:00:00'
   Speaker: Jaehyun Park
-  Title: ''
-  Venue: ''
+  Title: "KGTORe: Tailored Recommendations through Knowledge-aware GNN Models\r"
+  Venue: RecSys-23
   Paper:
-    Text: ''
-    URL: ''
+    Text: link
+    URL: https://dl.acm.org/doi/pdf/10.1145/3604915.3608804
   Slide:
-    Text: ''
+    Text: link
     URL: ''
 - Date: '2025-05-29T00:00:00'
   Speaker: Junwoo Jung
@@ -41,7 +41,7 @@
     URL: ''
 - Date: '2025-05-22T00:00:00'
   Speaker: Sunuk Kim
-  Title: FORWARD LEARNING OF GRAPH NEURAL NETWORKS
+  Title: Forward Learning of Graph Neural Networks
   Venue: ICLR-24
   Paper:
     Text: link
