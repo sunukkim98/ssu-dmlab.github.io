@@ -1,4 +1,14 @@
-- Date: '2025-07-03T00:00:00'
+- Date: '2025-08-21T00:00:00'
+  Speaker: Jiseung Hyun
+  Title: ''
+  Venue: ''
+  Paper:
+    Text: ''
+    URL: ''
+  Slide:
+    Text: ''
+    URL: ''
+- Date: '2025-08-14T00:00:00'
   Speaker: Minseo Jeon
   Title: ''
   Venue: ''
@@ -8,13 +18,63 @@
   Slide:
     Text: ''
     URL: ''
-- Date: '2025-06-26T00:00:00'
-  Speaker: Jiseung Hyun
+- Date: '2025-08-07T00:00:00'
+  Speaker: Jaehyun Park
   Title: ''
   Venue: ''
   Paper:
     Text: ''
     URL: ''
+  Slide:
+    Text: ''
+    URL: ''
+- Date: '2025-07-31T00:00:00'
+  Speaker: Junwoo Jung
+  Title: ''
+  Venue: ''
+  Paper:
+    Text: ''
+    URL: ''
+  Slide:
+    Text: ''
+    URL: ''
+- Date: '2025-07-24T00:00:00'
+  Speaker: Sunuk Kim
+  Title: ''
+  Venue: ''
+  Paper:
+    Text: ''
+    URL: ''
+  Slide:
+    Text: ''
+    URL: ''
+- Date: '2025-07-17T00:00:00'
+  Speaker: Daewon Gwak
+  Title: ''
+  Venue: ''
+  Paper:
+    Text: ''
+    URL: ''
+  Slide:
+    Text: ''
+    URL: ''
+- Date: '2025-07-10T00:00:00'
+  Speaker: Minseo Jeon
+  Title: ''
+  Venue: ''
+  Paper:
+    Text: ''
+    URL: ''
+  Slide:
+    Text: ''
+    URL: ''
+- Date: '2025-07-03T00:00:00'
+  Speaker: Jiseung Hyun
+  Title: 'DIFF: Dual Side-Information Filtering and Fusion for Sequential Recommendation'
+  Venue: SIGIR-25
+  Paper:
+    Text: link
+    URL: https://arxiv.org/abs/2505.13974
   Slide:
     Text: ''
     URL: ''
