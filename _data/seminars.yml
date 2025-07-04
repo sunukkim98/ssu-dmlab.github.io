@@ -76,8 +76,8 @@
     Text: link
     URL: https://arxiv.org/abs/2505.13974
   Slide:
-    Text: ''
-    URL: ''
+    Text: link
+    URL: https://drive.google.com/file/d/1PItwrlCJpvefT0QuYOo9tEL9fdyeVGIi/view?usp=drive_link
 - Date: '2025-06-19T00:00:00'
   Speaker: Jaehyun Park
   Title: 'KGTORe: Tailored Recommendations through Knowledge-aware GNN Models'
