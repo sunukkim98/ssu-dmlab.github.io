@@ -60,14 +60,14 @@
     URL: ''
 - Date: '2025-07-10T00:00:00'
   Speaker: Minseo Jeon
-  Title: ''
-  Venue: ''
+  Title: A Contrastive Framework with User, Item and Review Alignment for Recommendation
+  Venue: WSDM-25
   Paper:
-    Text: ''
-    URL: ''
+    Text: link
+    URL: https://arxiv.org/html/2501.11963v1
   Slide:
-    Text: ''
-    URL: ''
+    Text: link
+    URL: https://drive.google.com/file/d/1ZP8Jae5rJ9zxkRAyvSaeXGb-UQG5bnSt/view?usp=share_link
 - Date: '2025-07-03T00:00:00'
   Speaker: Jiseung Hyun
   Title: 'DIFF: Dual Side-Information Filtering and Fusion for Sequential Recommendation'
