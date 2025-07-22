@@ -40,13 +40,13 @@
     URL: ''
 - Date: '2025-07-24T00:00:00'
   Speaker: Sunuk Kim
-  Title: ''
-  Venue: ''
+  Title: 'DFA-GNN: Forward Learning of Graph Neural Networks by Direct Feedback Alignment'
+  Venue: NeurIPS-24
   Paper:
-    Text: ''
-    URL: ''
+    Text: link
+    URL: https://arxiv.org/abs/2406.02040
   Slide:
-    Text: ''
+    Text: link
     URL: ''
 - Date: '2025-07-17T00:00:00'
   Speaker: Daewon Gwak
