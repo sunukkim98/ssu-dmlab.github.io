@@ -1,5 +1,5 @@
 - Date: '2025-08-28T00:00:00'
-  Speaker: Jiseung Hyun
+  Speaker: Minseo Jeon
   Title: ''
   Venue: ''
   Paper:
@@ -9,7 +9,7 @@
     Text: ''
     URL: ''
 - Date: '2025-08-21T00:00:00'
-  Speaker: Minseo Jeon
+  Speaker: Jiseung Hyun
   Title: ''
   Venue: ''
   Paper:
@@ -30,11 +30,12 @@
     URL: ''
 - Date: '2025-08-07T00:00:00'
   Speaker: Junwoo Jung
-  Title: ''
-  Venue: ''
+  Title: 'LLM2Rec: Large Language Models Are Powerful Embedding Models for Sequential
+    Recommendation'
+  Venue: KDD-25
   Paper:
-    Text: ''
-    URL: ''
+    Text: link
+    URL: https://arxiv.org/abs/2506.21579
   Slide:
     Text: ''
     URL: ''
