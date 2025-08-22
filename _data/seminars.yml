@@ -39,7 +39,7 @@
     URL: https://arxiv.org/abs/2506.21579
   Slide:
     Text: link
-    URL: ''
+    URL: https://drive.google.com/file/d/1JmevCXnGML9GnrzFDMrirfofZavIJ4eP/view?usp=drive_link
 - Date: '2025-07-24T00:00:00'
   Speaker: Sunuk Kim
   Title: 'DFA-GNN: Forward Learning of Graph Neural Networks by Direct Feedback Alignment'
@@ -72,7 +72,7 @@
     URL: https://drive.google.com/file/d/1ZP8Jae5rJ9zxkRAyvSaeXGb-UQG5bnSt/view?usp=share_link
 - Date: '2025-07-03T00:00:00'
   Speaker: Jiseung Hyun
-  Title: 'DIFF: Dual Side-Information Filtering and Fusion for Sequential Recommendation'
+  Title: Jiseung Hyun
   Venue: SIGIR-25
   Paper:
     Text: link
