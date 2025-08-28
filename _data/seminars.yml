@@ -1,4 +1,4 @@
-- Date: '2025-07-03T00:00:00'
+- Date: '2025-09-11T00:00:00'
   Speaker: Minseo Jeon
   Title: ''
   Venue: ''
@@ -8,7 +8,7 @@
   Slide:
     Text: ''
     URL: ''
-- Date: '2025-06-26T00:00:00'
+- Date: '2025-09-04T00:00:00'
   Speaker: Jiseung Hyun
   Title: ''
   Venue: ''
@@ -18,16 +18,78 @@
   Slide:
     Text: ''
     URL: ''
+- Date: '2025-08-21T00:00:00'
+  Speaker: Jaehyun Park
+  Title: Unleashing the Power of Knowledge Graph for Recommendation via Invariant
+    Learning
+  Venue: WWW-24
+  Paper:
+    Text: link
+    URL: https://drive.google.com/file/d/1hdOrK7L3lGfbyHpJ4dbpqKNh6RvCbdVv/view?usp=sharing
+  Slide:
+    Text: link
+    URL: https://drive.google.com/file/d/1KWHoFFWJk6jLQQUB1-27IFTjF3GGh8h5/view?usp=sharing
+- Date: '2025-08-07T00:00:00'
+  Speaker: Junwoo Jung
+  Title: 'LLM2Rec: Large Language Models Are Powerful Embedding Models for Sequential
+    Recommendation'
+  Venue: KDD-25
+  Paper:
+    Text: link
+    URL: https://arxiv.org/abs/2506.21579
+  Slide:
+    Text: link
+    URL: https://drive.google.com/file/d/1JmevCXnGML9GnrzFDMrirfofZavIJ4eP/view?usp=drive_link
+- Date: '2025-07-24T00:00:00'
+  Speaker: Sunuk Kim
+  Title: 'DFA-GNN: Forward Learning of Graph Neural Networks by Direct Feedback Alignment'
+  Venue: NeurIPS-24
+  Paper:
+    Text: link
+    URL: https://arxiv.org/abs/2406.02040
+  Slide:
+    Text: link
+    URL: https://drive.google.com/file/d/1lQyG4VTkcZO0L-b_i0MuDzUT9qTMYE9a/view?usp=drive_link
+- Date: '2025-07-17T00:00:00'
+  Speaker: Daewon Gwak
+  Title: 'K-hop Hypergraph Neural Network: A comprehensive Aggregation Approach'
+  Venue: AAAI-25
+  Paper:
+    Text: link
+    URL: https://ojs.aaai.org/index.php/AAAI/article/view/35472
+  Slide:
+    Text: link
+    URL: https://drive.google.com/file/d/1Hew-9HqEPeQxh6QtjrIRx9AYndMf5RO6/view?usp=drive_link
+- Date: '2025-07-10T00:00:00'
+  Speaker: Minseo Jeon
+  Title: A Contrastive Framework with User, Item and Review Alignment for Recommendation
+  Venue: WSDM-25
+  Paper:
+    Text: link
+    URL: https://arxiv.org/html/2501.11963v1
+  Slide:
+    Text: link
+    URL: https://drive.google.com/file/d/1ZP8Jae5rJ9zxkRAyvSaeXGb-UQG5bnSt/view?usp=share_link
+- Date: '2025-07-03T00:00:00'
+  Speaker: Jiseung Hyun
+  Title: Jiseung Hyun
+  Venue: SIGIR-25
+  Paper:
+    Text: link
+    URL: https://arxiv.org/abs/2505.13974
+  Slide:
+    Text: link
+    URL: https://drive.google.com/file/d/1PItwrlCJpvefT0QuYOo9tEL9fdyeVGIi/view?usp=drive_link
 - Date: '2025-06-19T00:00:00'
   Speaker: Jaehyun Park
-  Title: ''
-  Venue: ''
+  Title: 'KGTORe: Tailored Recommendations through Knowledge-aware GNN Models'
+  Venue: RecSys-23
   Paper:
-    Text: ''
-    URL: ''
+    Text: link
+    URL: https://dl.acm.org/doi/pdf/10.1145/3604915.3608804
   Slide:
-    Text: ''
-    URL: ''
+    Text: link
+    URL: https://drive.google.com/file/d/1mgkQJAaGZd2JEKbN9aWizfJuyscD9Jg-/view?usp=sharing
 - Date: '2025-05-29T00:00:00'
   Speaker: Junwoo Jung
   Title: Review-driven Personalized Preference Reasoning with Large Language Models
@@ -38,10 +100,10 @@
     URL: https://arxiv.org/abs/2408.06276
   Slide:
     Text: link
-    URL: ''
+    URL: https://drive.google.com/file/d/1cJmnZVryaleySTRZefmAVJIaIBlWHni4/view?usp=drive_link
 - Date: '2025-05-22T00:00:00'
   Speaker: Sunuk Kim
-  Title: FORWARD LEARNING OF GRAPH NEURAL NETWORKS
+  Title: Forward Learning of Graph Neural Networks
   Venue: ICLR-24
   Paper:
     Text: link
