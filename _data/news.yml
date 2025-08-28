@@ -1,9 +1,17 @@
+- date: Aug 28, 2025
+  content: "Our work on SSL for signed graphs has been accepted at <a href='https://icdm2025.org' target='_blank'>ICDM 2025</a>"
+  icon: "fas fa-file"
+  keyword: "Paper"
+  button_color: "success"
+  link: "/publications"
+
+
 - date: Jun 12, 2025
-  content: "Our survey on multi-behavior recommendation received the PAKDD Best Survey Paper Award"
+  content: "Our survey on multi-behavior RecSys received PAKDD Best Survey Paper Award"
   icon: "fas fa-award"
   keyword: "Award"
   button_color: "info"
-  link: ""
+  link: "/publications"
 
 
 - date: Jun 3, 2025
