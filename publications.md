@@ -145,10 +145,10 @@ title: ""
 	  <div style="color: #606060; font-size: 1em;">
         {% if paper.Venue.url != nil %}
         <a href="{{ paper.Venue.url }}" style="color: #606060;" target="_blank">
-            {{ paper.Publisher }} {{ paper.FullVenue}} ({{ paper.Venue.text }}) {{paper.Year}}
+            {{ paper.FullVenue}} ({{ paper.Venue.text }}) {{paper.Year}}
         </a>
         {% else %}
-            {{ paper.Publisher }} {{ paper.FullVenue}} ({{ paper.Venue.text }}) {{paper.Year}}
+            {{ paper.FullVenue}} ({{ paper.Venue.text }}) {{paper.Year}}
         {% endif %}
 	  </div>
 	  <div style="font-size: 0.9em;">
