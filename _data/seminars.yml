@@ -10,14 +10,14 @@
     URL: ''
 - Date: '2025-09-04T00:00:00'
   Speaker: Jiseung Hyun
-  Title: ''
-  Venue: ''
+  Title: 'RecDiff: Diffusion Model for Social Recommendation'
+  Venue: CIKM-24
   Paper:
-    Text: ''
-    URL: ''
+    Text: link
+    URL: https://arxiv.org/abs/2406.01629
   Slide:
-    Text: ''
-    URL: ''
+    Text: link
+    URL: https://drive.google.com/file/d/1MUCdtzAZIa9ovHVYYmY0-lduFFYtL_cM/view?usp=drive_link
 - Date: '2025-08-21T00:00:00'
   Speaker: Jaehyun Park
   Title: Unleashing the Power of Knowledge Graph for Recommendation via Invariant
