@@ -1,4 +1,44 @@
-- Date: '2025-09-11T00:00:00'
+- Date: '2025-11-13T00:00:00'
+  Speaker: Junwoo Jung
+  Title: ''
+  Venue: ''
+  Paper:
+    Text: ''
+    URL: ''
+  Slide:
+    Text: ''
+    URL: ''
+- Date: '2025-11-06T00:00:00'
+  Speaker: Jaehyun Park
+  Title: ''
+  Venue: ''
+  Paper:
+    Text: ''
+    URL: ''
+  Slide:
+    Text: ''
+    URL: ''
+- Date: '2025-10-30T00:00:00'
+  Speaker: Jongyoon Choi
+  Title: ''
+  Venue: ''
+  Paper:
+    Text: ''
+    URL: ''
+  Slide:
+    Text: ''
+    URL: ''
+- Date: '2025-10-23T00:00:00'
+  Speaker: Jiseung Hyun
+  Title: ''
+  Venue: ''
+  Paper:
+    Text: ''
+    URL: ''
+  Slide:
+    Text: ''
+    URL: ''
+- Date: '2025-10-16T00:00:00'
   Speaker: Minseo Jeon
   Title: ''
   Venue: ''
@@ -8,6 +48,36 @@
   Slide:
     Text: ''
     URL: ''
+- Date: '2025-10-02T00:00:00'
+  Speaker: Sunuk Kim
+  Title: ''
+  Venue: ''
+  Paper:
+    Text: ''
+    URL: ''
+  Slide:
+    Text: ''
+    URL: ''
+- Date: '2025-09-25T00:00:00'
+  Speaker: Daewon Gwak
+  Title: ''
+  Venue: ''
+  Paper:
+    Text: ''
+    URL: ''
+  Slide:
+    Text: ''
+    URL: ''
+- Date: '2025-09-11T00:00:00'
+  Speaker: Minseo Jeon
+  Title: A Self-Supervised Mixture-of-Experts Framework for Multi-behavior Recommendation
+  Venue: CIKM-25
+  Paper:
+    Text: link
+    URL: https://arxiv.org/html/2508.19507v1
+  Slide:
+    Text: link
+    URL: https://drive.google.com/file/d/1f-UwPHi8H_mqPItrJmqnMAOnt4MJx_GO/view?usp=share_link
 - Date: '2025-09-04T00:00:00'
   Speaker: Jiseung Hyun
   Title: 'RecDiff: Diffusion Model for Social Recommendation'
