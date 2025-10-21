@@ -50,13 +50,13 @@
     URL: ''
 - Date: '2025-10-23T00:00:00'
   Speaker: Sunuk Kim
-  Title: ''
-  Venue: ''
+  Title: 'On the Role of Weight Decay in Collaborative Filtering: A Popularity Perspective'
+  Venue: KDD-25
   Paper:
-    Text: ''
-    URL: ''
+    Text: link
+    URL: https://arxiv.org/abs/2505.11318
   Slide:
-    Text: ''
+    Text: link
     URL: ''
 - Date: '2025-09-25T00:00:00'
   Speaker: Daewon Gwak
