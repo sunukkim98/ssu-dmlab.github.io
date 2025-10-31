@@ -40,14 +40,14 @@
     URL: ''
 - Date: '2025-10-30T00:00:00'
   Speaker: Minseo Jeon
-  Title: ''
-  Venue: ''
+  Title: 'LightKG: Efficient Knowledge-Aware Recommendations with Simplified GNN Architecture'
+  Venue: KDD-25
   Paper:
-    Text: ''
-    URL: ''
+    Text: link
+    URL: https://arxiv.org/abs/2506.10347
   Slide:
-    Text: ''
-    URL: ''
+    Text: link
+    URL: https://drive.google.com/file/d/1Ey08LmktdNVQAmi67y7LU3v6IDWnXMSP/view?usp=share_link
 - Date: '2025-10-23T00:00:00'
   Speaker: Sunuk Kim
   Title: 'On the Role of Weight Decay in Collaborative Filtering: A Popularity Perspective'
