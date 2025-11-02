@@ -30,11 +30,11 @@
     URL: ''
 - Date: '2025-11-06T00:00:00'
   Speaker: Jiseung Hyun
-  Title: ''
-  Venue: ''
+  Title: 'Lost in Sequence: Do Large Language Models Understand Sequential Recommendation?'
+  Venue: KDD-25
   Paper:
-    Text: ''
-    URL: ''
+    Text: link
+    URL: https://arxiv.org/abs/2502.13909
   Slide:
     Text: ''
     URL: ''
