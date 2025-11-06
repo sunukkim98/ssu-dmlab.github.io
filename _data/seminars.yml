@@ -36,8 +36,8 @@
     Text: link
     URL: https://arxiv.org/abs/2502.13909
   Slide:
-    Text: ''
-    URL: ''
+    Text: link
+    URL: https://drive.google.com/file/d/1PMT6KaDeyXHi4oxVMIdKtnG6BqRWA9iX/view?usp=drive_link
 - Date: '2025-10-30T00:00:00'
   Speaker: Minseo Jeon
   Title: 'LightKG: Efficient Knowledge-Aware Recommendations with Simplified GNN Architecture'
