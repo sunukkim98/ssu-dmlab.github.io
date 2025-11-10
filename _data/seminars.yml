@@ -20,13 +20,14 @@
     URL: ''
 - Date: '2025-11-13T00:00:00'
   Speaker: Jaehyun Park
-  Title: ''
-  Venue: ''
+  Title: "MDVT: Enhancing Multimodal Recommendation with Model-Agnostic Multimodal-Driven\
+    \ Virtual Triplets\r"
+  Venue: KDD-25
   Paper:
-    Text: ''
-    URL: ''
+    Text: link
+    URL: https://arxiv.org/pdf/2505.16665
   Slide:
-    Text: ''
+    Text: link
     URL: ''
 - Date: '2025-11-06T00:00:00'
   Speaker: Jiseung Hyun
