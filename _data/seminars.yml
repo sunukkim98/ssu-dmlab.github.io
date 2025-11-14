@@ -10,13 +10,13 @@
     URL: ''
 - Date: '2025-11-20T00:00:00'
   Speaker: Junwoo Jung
-  Title: ''
-  Venue: ''
+  Title: Contrastive Text-enhanced Transformer for Cross-Domain Sequential Recommendation
+  Venue: KDD-25
   Paper:
-    Text: ''
-    URL: ''
+    Text: link
+    URL: https://dl.acm.org/doi/10.1145/3711896.3736893
   Slide:
-    Text: ''
+    Text: link
     URL: ''
 - Date: '2025-11-13T00:00:00'
   Speaker: Jaehyun Park
@@ -28,7 +28,7 @@
     URL: https://arxiv.org/pdf/2505.16665
   Slide:
     Text: link
-    URL: ''
+    URL: https://drive.google.com/file/d/1CgkY6rY2TPdjEpWHWJojn_dOl52Bu4u1/view?usp=drive_link
 - Date: '2025-11-06T00:00:00'
   Speaker: Jiseung Hyun
   Title: 'Lost in Sequence: Do Large Language Models Understand Sequential Recommendation?'
