@@ -176,3 +176,177 @@
   Notes:
   - note: Received the Best Paper Award
     url: https://drive.google.com/file/d/10-HbP7UMyT9ANIhvUNjM9lWyD8B_rYuL/view?usp=drive_link
+- Date: '2025-11-07T00:00:00.000Z'
+  Year: 2025
+  Month: 11
+  Days: '2025-07-07T15:00:00.000Z'
+  Location: 경주 한화리조트
+  Publisher: 한국정보과학회 데이터소사이어티
+  Venue:
+    text: KDBC
+    url: https://www.dbsociety.kr/kdbc/kdbc2025/
+  FullVenue:
+    en: Korea Database Conference
+    kr: 한국데이터베이스학술대회
+  Title:
+    en: Residual Quantization-Based Reweighting for Implicit Feedback Denoising
+    kr: 암묵적피드백의잡음감소를 위한잔차 양자화 기반재가중치 기법
+  Type:
+  - ORAL
+  Pages: ''
+  NumAuthors: 3
+  Authors:
+  - Minseo Jeon
+  - Sunuk Kim
+  - Jinhong Jung
+  First:
+  - Minseo Jeon
+  Corresp:
+  - Jinhong Jung
+  DOI:
+    text: link
+    url: https://www.dropbox.com/scl/fo/jqzqvm8hom1yf4cthqxp1/ALAuFQdKQ54tMb_7wW3jNn4?rlkey=pb0lypqczrn86ykifbk8gypp3&e=2&st=bbq8z9qb&dl=0
+  Paper:
+    text: link
+    url: https://drive.google.com/file/d/1H3gJLAM8Qy32n0-mLmaGVlNRYM_N13Fb/view?usp=drive_link
+  Code:
+    text: link
+    url: https://drive.google.com/file/d/1MsQX-0BhKpMRRGEAzy_ir5MRj4EGuVqs/view?usp=drive_link
+  Slide:
+    text: link
+    url: https://drive.google.com/file/d/1P7CmxmE8aX-vdJEDQcJ9jpzTgiOVRkP0/view?usp=drive_link
+  Poster:
+    text: link
+    url: ''
+  Notes: []
+- Date: '2025-11-07T00:00:00.000Z'
+  Year: 2025
+  Month: 11
+  Days: '2025-07-07T15:00:00.000Z'
+  Location: 경주 한화리조트
+  Publisher: 한국정보과학회 데이터소사이어티
+  Venue:
+    text: KDBC
+    url: https://www.dbsociety.kr/kdbc/kdbc2025/
+  FullVenue:
+    en: Korea Database Conference
+    kr: 한국데이터베이스학술대회
+  Title:
+    en: Recommender System with Item Language Semantics and Knowledge Graphs
+    kr: 아이템 언어 의미와 지식그래프를 활용한 추천 시스템
+  Type:
+  - ORAL
+  Pages: ''
+  NumAuthors: 3
+  Authors:
+  - Jaehyun Park
+  - Daewon Gwak
+  - Jinhong Jung
+  First:
+  - Jaehyun Park
+  Corresp:
+  - Jinhong Jung
+  DOI:
+    text: link
+    url: https://www.dropbox.com/scl/fo/jqzqvm8hom1yf4cthqxp1/ALAuFQdKQ54tMb_7wW3jNn4?rlkey=pb0lypqczrn86ykifbk8gypp3&e=3&st=bbq8z9qb&dl=0
+  Paper:
+    text: link
+    url: https://drive.google.com/file/d/1WlvGoVKw8YEV6mYTmLud0AaDh_xkRGON/view?usp=sharing
+  Code:
+    text: link
+    url: https://drive.google.com/file/d/1I9W_qf06z4LTLWROGbXdFcLuxddXSr1J/view?usp=sharing
+  Slide:
+    text: link
+    url: https://drive.google.com/file/d/1iedn_YySknSnQRRJ4rQ0E5iTaXObz00R/view?usp=sharing
+  Poster:
+    text: link
+    url: ''
+  Notes: []
+- Date: '2025-11-07T00:00:00.000Z'
+  Year: 2025
+  Month: 11
+  Days: '2025-07-07T15:00:00.000Z'
+  Location: 경주 한화리조트
+  Publisher: 한국정보과학회 데이터소사이어티
+  Venue:
+    text: KDBC
+    url: https://www.dbsociety.kr/kdbc/kdbc2025/
+  FullVenue:
+    en: Korea Database Conference
+    kr: 한국데이터베이스학술대회
+  Title:
+    en: Sequential Recommendation with LLM Reranking by Integrating Collaborative
+      Filtering and Textual Semantics
+    kr: 협업 필터링 및 텍스트 의미 정보를 통합하는 LLM 재정렬 기반 순차 추천 시스템
+  Type:
+  - POSTER
+  Pages: ''
+  NumAuthors: 2
+  Authors:
+  - Junwoo Jung
+  - Jinhong Jung
+  First:
+  - Junwoo Jung
+  Corresp:
+  - Jinhong Jung
+  DOI:
+    text: link
+    url: http://dropbox.com/scl/fo/jqzqvm8hom1yf4cthqxp1/ALAuFQdKQ54tMb_7wW3jNn4?rlkey=pb0lypqczrn86ykifbk8gypp3&e=2&st=bbq8z9qb&dl=0
+  Paper:
+    text: link
+    url: ''
+  Code:
+    text: link
+    url: ''
+  Slide:
+    text: link
+    url: ''
+  Poster:
+    text: link
+    url: ''
+  Notes: []
+- Date: '2025-11-07T00:00:00.000Z'
+  Year: 2025
+  Month: 11
+  Days: '2025-07-07T15:00:00.000Z'
+  Location: 경주 한화리조트
+  Publisher: 한국정보과학회 데이터소사이어티
+  Venue:
+    text: KDBC
+    url: https://www.dbsociety.kr/kdbc/kdbc2025/
+  FullVenue:
+    en: Korea Database Conference
+    kr: 한국데이터베이스학술대회
+  Title:
+    en: Learning Recommender Systems with User Preference Based Soft Label Negative
+      Sampling
+    kr: 사용자 선호도 기반 소프트 라벨 부정 샘플링을 활용한 추천 시스템 학습
+  Type:
+  - POSTER
+  Pages: ''
+  NumAuthors: 3
+  Authors:
+  - Jiseung Hyun
+  - Jongyoon Choi
+  - Jinhong Jung
+  First:
+  - Jiseung Hyun
+  - Jongyoon Choi
+  Corresp:
+  - Jinhong Jung
+  DOI:
+    text: link
+    url: http://dropbox.com/scl/fo/jqzqvm8hom1yf4cthqxp1/ALAuFQdKQ54tMb_7wW3jNn4?rlkey=pb0lypqczrn86ykifbk8gypp3&e=2&st=bbq8z9qb&dl=0
+  Paper:
+    text: link
+    url: ''
+  Code:
+    text: link
+    url: ''
+  Slide:
+    text: link
+    url: ''
+  Poster:
+    text: link
+    url: ''
+  Notes: []
