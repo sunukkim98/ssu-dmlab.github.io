@@ -77,7 +77,7 @@
     URL: https://dl.acm.org/doi/10.1145/3746252.3761276
   Slide:
     Text: link
-    URL: ''
+    URL: https://drive.google.com/file/d/19hS19EPZs-13aTANGfAxcaF0Go37uaVb/view?usp=drive_link
 - Date: '2025-11-20T00:00:00'
   Speaker: Junwoo Jung
   Title: Contrastive Text-enhanced Transformer for Cross-Domain Sequential Recommendation
@@ -90,8 +90,8 @@
     URL: https://drive.google.com/file/d/18hBLINA3I_qDEJx8Z08Mxcor_Jeh8e8m/view?usp=drive_link
 - Date: '2025-11-13T00:00:00'
   Speaker: Jaehyun Park
-  Title: "MDVT: Enhancing Multimodal Recommendation with Model-Agnostic Multimodal-Driven\
-    \ Virtual Triplets\r"
+  Title: 'MDVT: Enhancing Multimodal Recommendation with Model-Agnostic Multimodal-Driven
+    Virtual Triplets'
   Venue: KDD-25
   Paper:
     Text: link
