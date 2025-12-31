@@ -405,7 +405,7 @@
 - Date: '2024-10-01T00:00:00.000Z'
   Year: 2025
   Month: 2
-  Days: ''
+  Days: 28
   Publisher: Springer Nature
   Location: Germany
   Venue:
@@ -452,7 +452,7 @@
 - Date: '2025-05-01T00:00:00.000Z'
   Year: 2025
   Month: 6
-  Days: ''
+  Days: 1
   Publisher: Springer Nature
   Location: Germany
   Venue:
@@ -497,7 +497,7 @@
 - Date: '2025-05-01T00:00:00.000Z'
   Year: 2025
   Month: 7
-  Days: ''
+  Days: 11
   Publisher: Elsevier
   Location: Netherlands
   Venue:
@@ -529,7 +529,7 @@
     url: ''
   Paper:
     text: link
-    url: https://arxiv.org/abs/2412.18720
+    url: https://drive.google.com/file/d/1Z9ruZTwa7RunOY2SeTBSBmhWwOVkoghl/view?usp=sharing
   Code:
     text: link
     url: https://github.com/ssu-dmlab/ELISE
