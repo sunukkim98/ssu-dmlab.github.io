@@ -587,3 +587,50 @@
     text: link
     url: ''
   Notes: []
+- Date: '2025-12-01T00:00:00.000Z'
+  Year: 2026
+  Month: ''
+  Days: ''
+  Publisher: Springer Nature
+  Location: Germany
+  Venue:
+    text: IJDSA
+    url: https://link.springer.com/journal/41060
+  FullVenue: International Journal of Data Science and Analytics
+  Title: 'A Comprehensive Survey on Multi-Behavior Recommender Systems: Extended Taxonomy
+    and Recent Advances'
+  IF: 2.8
+  ISSN: ''
+  VOL: ''
+  'NO': ''
+  Pages: ''
+  NumAuthors: 5
+  Authors:
+  - Kyungho Kim
+  - Sunwoo Kim
+  - Geon Lee
+  - Jinhong Jung
+  - Kijung Shin
+  First:
+  - Kyungho Kim
+  Corresp:
+  - Kijung Shin
+  DOI:
+    text: link
+    url: ''
+  BIB:
+    text: link
+    url: ''
+  Paper:
+    text: link
+    url: ''
+  Code:
+    text: link
+    url: ''
+  Slide:
+    text: link
+    url: ''
+  Appendix:
+    text: link
+    url: ''
+  Notes: []
