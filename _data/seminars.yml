@@ -60,13 +60,14 @@
     URL: ''
 - Date: '2026-01-08T00:00:00'
   Speaker: Daewon Gwak
-  Title: ''
-  Venue: ''
+  Title: 'PriviRec: Confidential and Decentralized Graph Filtering for Recommender
+    Systems'
+  Venue: CIKM-25
   Paper:
-    Text: ''
-    URL: ''
+    Text: link
+    URL: https://dl.acm.org/doi/pdf/10.1145/3746252.3761152
   Slide:
-    Text: ''
+    Text: link
     URL: ''
 - Date: '2025-11-27T00:00:00'
   Speaker: Sunuk Kim
