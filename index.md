@@ -71,18 +71,19 @@ layout: article
     <div class="item__header">
         <div class="grid">
             <div class="cell cell--auto">
-                <a class="button button--primary button--rounded button--sm" 
+                <a class="button button--primary button--rounded button--sm"
                 {% if notice.link != nil %}
                   href="{{ notice.link }}" target="_blank"
                 {% endif %}
                 >
                 {{ notice.keyword }}
-                </a> 
+                </a>
                 {{ notice.content }}
             </div>
+            <!--
             <div class="cell cell--2" style="padding-left: 13px">
                 <i class="far fa-calendar-alt fa-fw"></i> <span>{{ notice.date }}</span>
-            </div>
+            </div> -->
         </div>
     </div>
   </div>
@@ -92,19 +93,19 @@ layout: article
 <div class="item" id="smallscreen">
   <div class="item__image">
       <i class="far fa-calendar-alt fa-fw"></i> <span>{{ notice.date }}</span>
-      <a class="button button--{{ notice.button_color }} button--rounded button--sm" 
+      <a class="button button--{{ notice.button_color }} button--rounded button--sm"
       {% if notice.link != nil %}
         href="{{ notice.link }}" target="_blank"
       {% endif %}
       >
       {{ notice.keyword }}
       </a>
-  </div>  
+  </div>
   <div class="item__content">
     <div class="item__header">
         <div class="grid">
             <div class="cell cell--auto">
-                <i class="{{ notice.icon }} fa-fw"></i> 
+                <i class="{{ notice.icon }} fa-fw"></i>
                 {{ notice.content }}
             </div>
         </div>
@@ -139,7 +140,7 @@ layout: article
                 {% endif %}
                 >
                 {{ news.keyword }}
-                </a> 
+                </a>
                 {{ news.content }}
             </div>
             <div class="cell cell--2" style="padding-left: 13px;">
@@ -158,16 +159,16 @@ layout: article
       <a class="button button--{{news.button_color}} button--rounded button--sm"
       {% if news.link != nil %}
         href="{{ news.link }}" target="_blank"
-      {% endif %}  
+      {% endif %}
       >
       {{ news.keyword }}
       </a>
-  </div>  
+  </div>
   <div class="item__content">
     <div class="item__header">
         <div class="grid">
             <div class="cell cell--auto">
-                <i class="{{ news.icon }} fa-fw"></i> 
+                <i class="{{ news.icon }} fa-fw"></i>
                 {{ news.content }}
             </div>
         </div>
