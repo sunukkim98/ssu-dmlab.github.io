@@ -1,13 +1,3 @@
-- Date: '2027-01-01T00:00:00'
-  Speaker: Test
-  Title: ''
-  Venue: ''
-  Paper:
-    Text: ''
-    URL: ''
-  Slide:
-    Text: ''
-    URL: ''
 - Date: '2026-02-12T00:00:00'
   Speaker: Hanvit Lee
   Title: ''
@@ -68,7 +58,7 @@
     URL: https://dl.acm.org/doi/pdf/10.1145/3746252.3761152
   Slide:
     Text: link
-    URL: ''
+    URL: https://drive.google.com/file/d/18tmGviO1L3QExiam4yWxOSDpKC1Q4KBE/view?usp=drive_link
 - Date: '2025-11-27T00:00:00'
   Speaker: Sunuk Kim
   Title: Context-aware Sequential Bundle Recommendation via User-specific Representations
