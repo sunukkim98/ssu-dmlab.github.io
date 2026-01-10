@@ -40,11 +40,11 @@
     URL: ''
 - Date: '2026-01-15T00:00:00'
   Speaker: Jiseung Hyun
-  Title: ''
-  Venue: ''
+  Title: 'NFARec: A Negative Feedback-Aware Recommender Model'
+  Venue: SIGIR-24
   Paper:
-    Text: ''
-    URL: ''
+    Text: link
+    URL: https://arxiv.org/abs/2404.06900
   Slide:
     Text: ''
     URL: ''
