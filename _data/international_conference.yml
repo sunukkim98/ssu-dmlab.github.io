@@ -961,3 +961,52 @@
     text: link
     url: ''
   Notes: []
+- Date: '2026-04-01T00:00:00.000Z'
+  Year: 2026
+  Month: 4
+  Days: 13-17
+  Publisher: ACM
+  Location: Dubai, United Arab Emirates
+  Venue:
+    text: WWW
+    url: https://www2026.thewebconf.org/
+  FullVenue: The Web Conference
+  Title: 'AlphaFree: Recommendation Free from Users, IDs, and GNNs'
+  BKIF: 4
+  AR: 0.201
+  BK: 우수
+  Type:
+  - ORAL
+  Pages: '-'
+  NumAuthors: 4
+  Authors:
+  - Minseo Jeon
+  - Junwoo Jung
+  - Daewon Gwak
+  - Jinhong Jung
+  First:
+  - Minseo Jeon
+  Corresp:
+  - Jinhong Jung
+  DOI:
+    text: link
+    url: ''
+  BIB:
+    text: link
+    url: ''
+  Paper:
+    text: link
+    url: ''
+  Code:
+    text: link
+    url: ''
+  Slide:
+    text: link
+    url: ''
+  Poster:
+    text: link
+    url: ''
+  Appendix:
+    text: link
+    url: ''
+  Notes: []
