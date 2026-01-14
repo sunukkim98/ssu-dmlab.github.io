@@ -1,3 +1,10 @@
+- date: Jan 13, 2026
+  content: "Our work on recommendation free from users, IDs, and GNNs has been accepted at <a href='https://www2026.thewebconf.org' target='_blank'>WWW 2026</a>"
+  icon: "fas fa-file"
+  keyword: "Paper"
+  button_color: "success"
+  link: "/publications"
+
 - date: Aug 28, 2025
   content: "Our work on SSL for signed graphs has been accepted at <a href='https://icdm2025.org' target='_blank'>ICDM 2025</a>"
   icon: "fas fa-file"
