@@ -110,7 +110,7 @@
 - name:
     en: "Jiseung Hyun"
     ko: "현지승"
-  type: undergrad
+  type: grad
   img:
   gender: man
   affiliation:
@@ -171,7 +171,7 @@
     en: "Hanvit Lee"
     ko: "이한빛"
   type: undergrad
-  img: 
+  img: "hanvitlee.png"
   gender: man
   affiliation:
   email: "hanvit@soongsil.ac.kr"
@@ -185,4 +185,14 @@
   gender: man
   affiliation:
   email: "superider00@soongsil.ac.kr"
+  link: 
+
+- name:
+    en: "Gyuwon Je"
+    ko: "제규원"
+  type: grad
+  img: "gyuwonje.jpg"
+  gender: man
+  affiliation:
+  email: "jko1661@soongsil.ac.kr"
   link: 
