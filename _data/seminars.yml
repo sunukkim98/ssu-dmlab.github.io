@@ -30,11 +30,11 @@
     URL: ''
 - Date: '2026-01-22T00:00:00'
   Speaker: Jaehyun Park
-  Title: ''
-  Venue: ''
+  Title: Collaborative Interest Mining Network for Knowledge Graph-based Recommendation
+  Venue: CIKM-25
   Paper:
-    Text: ''
-    URL: ''
+    Text: link
+    URL: https://arxiv.org/pdf/2509.11094
   Slide:
     Text: ''
     URL: ''
@@ -46,8 +46,8 @@
     Text: link
     URL: https://arxiv.org/abs/2404.06900
   Slide:
-    Text: ''
-    URL: ''
+    Text: link
+    URL: https://drive.google.com/file/d/1cmcNQU_dSyBhwgUpAqBNKvk16tSTMEPE/view?usp=drive_link
 - Date: '2026-01-08T00:00:00'
   Speaker: Daewon Gwak
   Title: 'PriviRec: Confidential and Decentralized Graph Filtering for Recommender
