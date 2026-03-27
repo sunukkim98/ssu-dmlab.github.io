@@ -50,14 +50,14 @@
     URL: ''
 - Date: '2026-03-26T00:00:00'
   Speaker: Hanvit Lee
-  Title: ''
-  Venue: ''
+  Title: Inductive Generative Recommendation via Retrieval-based Speculation
+  Venue: AAAI-26
   Paper:
-    Text: ''
-    URL: ''
+    Text: link
+    URL: https://arxiv.org/abs/2410.02939
   Slide:
-    Text: ''
-    URL: ''
+    Text: link
+    URL: https://drive.google.com/file/d/1bA-Wf9SVPVMiRsdxWq5u8x48SBTQQLfT/view?usp=sharing
 - Date: '2026-03-12T00:00:00'
   Speaker: Sunuk Kim
   Title: Local Large Language Models for Recommendation
