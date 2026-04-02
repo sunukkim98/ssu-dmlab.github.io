@@ -40,13 +40,14 @@
     URL: ''
 - Date: '2026-04-02T00:00:00'
   Speaker: Daewon Gwak
-  Title: ''
-  Venue: ''
+  Title: 'When Federated Recommendation Meets Cold-Start Problem: Separating Item
+    Attributes and User Interactions'
+  Venue: WWW-24
   Paper:
-    Text: ''
-    URL: ''
+    Text: link
+    URL: https://arxiv.org/abs/2305.12650
   Slide:
-    Text: ''
+    Text: link
     URL: ''
 - Date: '2026-03-26T00:00:00'
   Speaker: Hanvit Lee
