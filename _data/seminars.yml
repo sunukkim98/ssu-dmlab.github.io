@@ -90,24 +90,14 @@
     URL: ''
 - Date: '2026-04-30T00:00:00'
   Speaker: Jiseung Hyun
-  Title: ''
-  Venue: ''
+  Title: Signed Proximity Matters in Graph-based Recommendation
+  Venue: KDD-26
   Paper:
-    Text: ''
-    URL: ''
+    Text: link
+    URL: https://dl.acm.org/doi/10.1145/3770854.3780298
   Slide:
-    Text: ''
-    URL: ''
-- Date: '2026-04-16T00:00:00'
-  Speaker: Minseo Jeon
-  Title: ''
-  Venue: ''
-  Paper:
-    Text: ''
-    URL: ''
-  Slide:
-    Text: ''
-    URL: ''
+    Text: link
+    URL: https://drive.google.com/file/d/1Gg_eFXENZc1JemYrHbHYW_8qe3siG8Zv/view?usp=drive_link
 - Date: '2026-04-09T00:00:00'
   Speaker: Junwoo Jung
   Title: Capturing Dynamic User Interests Under Modality Imbalance for Multimodal
