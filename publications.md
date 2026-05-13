@@ -3,6 +3,8 @@ layout: article
 title: ""
 ---
 
+{% assign member_array = site.data.members | map: "name" | map: "en" %}
+
 {% if site.data.preprints != blank %}
 ## Preprints
 {% endif %}
@@ -14,10 +16,15 @@ title: ""
 	  <div style="font-size: 1.2em; font-weight: bolder;">{{paper.title}}</div>
 	  <div style="font-size: 1em;">
         {% for author in paper.authors %}
+            {% if member_array contains author %}{% assign is_member = true %}{% else %}{% assign is_member = false %}{% endif %}
+            {% assign is_co_first = false %}
+            {% if paper.first.size > 1 and paper.first contains author %}
+                {% assign is_co_first = true %}
+            {% endif %}
             {% if forloop.last == true %}
-                and {{ author }}
+                and {% if is_member %}<span style="text-decoration: underline;">{{ author }}</span>{% else %}{{ author }}{% endif %}{% if is_co_first %}<sup>*</sup>{% endif %}
             {% else %}
-                {{ author }},
+                {% if is_member %}<span style="text-decoration: underline;">{{ author }}</span>{% else %}{{ author }}{% endif %}{% if is_co_first %}<sup>*</sup>{% endif %},
             {% endif %}
         {% endfor %}
 	  </div>
@@ -78,10 +85,15 @@ title: ""
 	  <div style="font-size: 1.2em; font-weight: bolder;">{{paper.Title}}</div>
 	  <div style="font-size: 1em;">
         {% for author in paper.Authors %}
+            {% if member_array contains author %}{% assign is_member = true %}{% else %}{% assign is_member = false %}{% endif %}
+            {% assign is_co_first = false %}
+            {% if paper.First.size > 1 and paper.First contains author %}
+                {% assign is_co_first = true %}
+            {% endif %}
             {% if forloop.last == true %}
-                and {{ author }}
+                and {% if is_member %}<span style="text-decoration: underline;">{{ author }}</span>{% else %}{{ author }}{% endif %}{% if is_co_first %}<sup>*</sup>{% endif %}
             {% else %}
-                {{ author }},
+                {% if is_member %}<span style="text-decoration: underline;">{{ author }}</span>{% else %}{{ author }}{% endif %}{% if is_co_first %}<sup>*</sup>{% endif %},
             {% endif %}
         {% endfor %}
 	  </div>
@@ -135,10 +147,15 @@ title: ""
 	  <div style="font-size: 1.2em; font-weight: bolder;">{{paper.Title}}</div>
 	  <div style="font-size: 1em;">
         {% for author in paper.Authors %}
+            {% if member_array contains author %}{% assign is_member = true %}{% else %}{% assign is_member = false %}{% endif %}
+            {% assign is_co_first = false %}
+            {% if paper.First.size > 1 and paper.First contains author %}
+                {% assign is_co_first = true %}
+            {% endif %}
             {% if forloop.last == true %}
-                and {{ author }}
+                and {% if is_member %}<span style="text-decoration: underline;">{{ author }}</span>{% else %}{{ author }}{% endif %}{% if is_co_first %}<sup>*</sup>{% endif %}
             {% else %}
-                {{ author }},
+                {% if is_member %}<span style="text-decoration: underline;">{{ author }}</span>{% else %}{{ author }}{% endif %}{% if is_co_first %}<sup>*</sup>{% endif %},
             {% endif %}
         {% endfor %}
 	  </div>
@@ -191,10 +208,15 @@ title: ""
 	  <div style="font-size: 1.2em; font-weight: bolder;">{{paper.Title.en}}</div>
 	  <div style="font-size: 1em;">
         {% for author in paper.Authors %}
+            {% if member_array contains author %}{% assign is_member = true %}{% else %}{% assign is_member = false %}{% endif %}
+            {% assign is_co_first = false %}
+            {% if paper.First.size > 1 and paper.First contains author %}
+                {% assign is_co_first = true %}
+            {% endif %}
             {% if forloop.last == true %}
-                and {{ author }}
+                and {% if is_member %}<span style="text-decoration: underline;">{{ author }}</span>{% else %}{{ author }}{% endif %}{% if is_co_first %}<sup>*</sup>{% endif %}
             {% else %}
-                {{ author }},
+                {% if is_member %}<span style="text-decoration: underline;">{{ author }}</span>{% else %}{{ author }}{% endif %}{% if is_co_first %}<sup>*</sup>{% endif %},
             {% endif %}
         {% endfor %}
 	  </div>
